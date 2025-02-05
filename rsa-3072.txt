@@ -1,0 +1,1002 @@
+Tempo de geração das chaves RSA: 8.876634033s
+Tempo de geração das chaves RSA: 4.284095238s
+Tempo de geração das chaves RSA: 7.059674044s
+Tempo de geração das chaves RSA: 5.183691544s
+Tempo de geração das chaves RSA: 6.661074352s
+Tempo de geração das chaves RSA: 8.341442072s
+Tempo de geração das chaves RSA: 6.947815274s
+Tempo de geração das chaves RSA: 4.661180389s
+Tempo de geração das chaves RSA: 8.830187555s
+Tempo de geração das chaves RSA: 2.242735396s
+Tempo de geração das chaves RSA: 4.732925893s
+Tempo de geração das chaves RSA: 2.984308324s
+Tempo de geração das chaves RSA: 28.324167229s
+Tempo de geração das chaves RSA: 3.673295403s
+Tempo de geração das chaves RSA: 15.996741079s
+Tempo de geração das chaves RSA: 7.040903934s
+Tempo de geração das chaves RSA: 10.291764576s
+Tempo de geração das chaves RSA: 5.631450926s
+Tempo de geração das chaves RSA: 25.473817931s
+Tempo de geração das chaves RSA: 8.029023678s
+Tempo de geração das chaves RSA: 6.799221663s
+Tempo de geração das chaves RSA: 4.081578939s
+Tempo de geração das chaves RSA: 5.146696244s
+Tempo de geração das chaves RSA: 20.992927321s
+Tempo de geração das chaves RSA: 5.606695936s
+Tempo de geração das chaves RSA: 17.975368302s
+Tempo de geração das chaves RSA: 10.36683559s
+Tempo de geração das chaves RSA: 5.360727466s
+Tempo de geração das chaves RSA: 10.648922975s
+Tempo de geração das chaves RSA: 16.313506646s
+Tempo de geração das chaves RSA: 11.149837305s
+Tempo de geração das chaves RSA: 6.473177653s
+Tempo de geração das chaves RSA: 8.995219833s
+Tempo de geração das chaves RSA: 4.276973773s
+Tempo de geração das chaves RSA: 5.152719199s
+Tempo de geração das chaves RSA: 5.781474494s
+Tempo de geração das chaves RSA: 7.048970918s
+Tempo de geração das chaves RSA: 21.623704966s
+Tempo de geração das chaves RSA: 19.562538292s
+Tempo de geração das chaves RSA: 3.507939441s
+Tempo de geração das chaves RSA: 6.541222695s
+Tempo de geração das chaves RSA: 9.037629622s
+Tempo de geração das chaves RSA: 5.397484999s
+Tempo de geração das chaves RSA: 7.606032841s
+Tempo de geração das chaves RSA: 21.431851573s
+Tempo de geração das chaves RSA: 2.750632044s
+Tempo de geração das chaves RSA: 2.925719019s
+Tempo de geração das chaves RSA: 6.880345394s
+Tempo de geração das chaves RSA: 3.858537217s
+Tempo de geração das chaves RSA: 5.186800652s
+Tempo de geração das chaves RSA: 8.356161794s
+Tempo de geração das chaves RSA: 10.573104081s
+Tempo de geração das chaves RSA: 10.643401767s
+Tempo de geração das chaves RSA: 26.878493253s
+Tempo de geração das chaves RSA: 4.133088662s
+Tempo de geração das chaves RSA: 9.079862861s
+Tempo de geração das chaves RSA: 14.203652728s
+Tempo de geração das chaves RSA: 7.532790601s
+Tempo de geração das chaves RSA: 5.81850382s
+Tempo de geração das chaves RSA: 5.778212176s
+Tempo de geração das chaves RSA: 8.042796282s
+Tempo de geração das chaves RSA: 11.197933151s
+Tempo de geração das chaves RSA: 7.746156524s
+Tempo de geração das chaves RSA: 18.586036858s
+Tempo de geração das chaves RSA: 8.477412745s
+Tempo de geração das chaves RSA: 12.888796358s
+Tempo de geração das chaves RSA: 14.658239338s
+Tempo de geração das chaves RSA: 16.305335443s
+Tempo de geração das chaves RSA: 4.788836166s
+Tempo de geração das chaves RSA: 7.064085202s
+Tempo de geração das chaves RSA: 5.892485702s
+Tempo de geração das chaves RSA: 10.311117866s
+Tempo de geração das chaves RSA: 8.452095143s
+Tempo de geração das chaves RSA: 4.401342068s
+Tempo de geração das chaves RSA: 4.951474639s
+Tempo de geração das chaves RSA: 9.658599717s
+Tempo de geração das chaves RSA: 7.810676559s
+Tempo de geração das chaves RSA: 7.120516019s
+Tempo de geração das chaves RSA: 4.411606813s
+Tempo de geração das chaves RSA: 14.329370253s
+Tempo de geração das chaves RSA: 16.662962516s
+Tempo de geração das chaves RSA: 6.645462322s
+Tempo de geração das chaves RSA: 4.897137844s
+Tempo de geração das chaves RSA: 12.313460556s
+Tempo de geração das chaves RSA: 4.651484642s
+Tempo de geração das chaves RSA: 6.54792441s
+Tempo de geração das chaves RSA: 7.438789412s
+Tempo de geração das chaves RSA: 6.168152536s
+Tempo de geração das chaves RSA: 6.053334636s
+Tempo de geração das chaves RSA: 9.689578596s
+Tempo de geração das chaves RSA: 7.439958206s
+Tempo de geração das chaves RSA: 3.556799477s
+Tempo de geração das chaves RSA: 7.560972903s
+Tempo de geração das chaves RSA: 4.998060248s
+Tempo de geração das chaves RSA: 5.091075396s
+Tempo de geração das chaves RSA: 2.989803207s
+Tempo de geração das chaves RSA: 13.197877026s
+Tempo de geração das chaves RSA: 9.746863302s
+Tempo de geração das chaves RSA: 5.127701399s
+Tempo de geração das chaves RSA: 8.71999425s
+Tempo de geração das chaves RSA: 3.336690197s
+Tempo de geração das chaves RSA: 6.446230991s
+Tempo de geração das chaves RSA: 3.786584517s
+Tempo de geração das chaves RSA: 12.534331635s
+Tempo de geração das chaves RSA: 8.330090064s
+Tempo de geração das chaves RSA: 8.980774289s
+Tempo de geração das chaves RSA: 9.576677918s
+Tempo de geração das chaves RSA: 15.995289703s
+Tempo de geração das chaves RSA: 3.923834069s
+Tempo de geração das chaves RSA: 12.10938447s
+Tempo de geração das chaves RSA: 20.112798561s
+Tempo de geração das chaves RSA: 13.652069454s
+Tempo de geração das chaves RSA: 12.090170501s
+Tempo de geração das chaves RSA: 10.051555123s
+Tempo de geração das chaves RSA: 6.960511386s
+Tempo de geração das chaves RSA: 7.909533752s
+Tempo de geração das chaves RSA: 16.006370975s
+Tempo de geração das chaves RSA: 3.405107782s
+Tempo de geração das chaves RSA: 8.999468759s
+Tempo de geração das chaves RSA: 5.762772581s
+Tempo de geração das chaves RSA: 5.823387503s
+Tempo de geração das chaves RSA: 10.168938255s
+Tempo de geração das chaves RSA: 9.172157626s
+Tempo de geração das chaves RSA: 8.183712025s
+Tempo de geração das chaves RSA: 3.17088881s
+Tempo de geração das chaves RSA: 2.481719826s
+Tempo de geração das chaves RSA: 7.24304292s
+Tempo de geração das chaves RSA: 12.389586705s
+Tempo de geração das chaves RSA: 7.053395575s
+Tempo de geração das chaves RSA: 3.395495067s
+Tempo de geração das chaves RSA: 11.65728765s
+Tempo de geração das chaves RSA: 3.586863809s
+Tempo de geração das chaves RSA: 8.909544342s
+Tempo de geração das chaves RSA: 9.247794259s
+Tempo de geração das chaves RSA: 7.833141617s
+Tempo de geração das chaves RSA: 5.301719319s
+Tempo de geração das chaves RSA: 9.686698947s
+Tempo de geração das chaves RSA: 18.025013878s
+Tempo de geração das chaves RSA: 10.207779287s
+Tempo de geração das chaves RSA: 11.037216118s
+Tempo de geração das chaves RSA: 4.323854707s
+Tempo de geração das chaves RSA: 7.998172564s
+Tempo de geração das chaves RSA: 18.90209081s
+Tempo de geração das chaves RSA: 3.632156453s
+Tempo de geração das chaves RSA: 17.664491733s
+Tempo de geração das chaves RSA: 5.538273246s
+Tempo de geração das chaves RSA: 10.972984919s
+Tempo de geração das chaves RSA: 3.306380843s
+Tempo de geração das chaves RSA: 10.07570512s
+Tempo de geração das chaves RSA: 4.231850647s
+Tempo de geração das chaves RSA: 4.983140595s
+Tempo de geração das chaves RSA: 2.246880805s
+Tempo de geração das chaves RSA: 16.62086236s
+Tempo de geração das chaves RSA: 18.180512607s
+Tempo de geração das chaves RSA: 6.376998748s
+Tempo de geração das chaves RSA: 5.330179753s
+Tempo de geração das chaves RSA: 12.924184509s
+Tempo de geração das chaves RSA: 5.511831253s
+Tempo de geração das chaves RSA: 5.15704356s
+Tempo de geração das chaves RSA: 5.148209355s
+Tempo de geração das chaves RSA: 5.968526324s
+Tempo de geração das chaves RSA: 9.067033349s
+Tempo de geração das chaves RSA: 5.044628979s
+Tempo de geração das chaves RSA: 6.794698556s
+Tempo de geração das chaves RSA: 16.692541834s
+Tempo de geração das chaves RSA: 10.367977624s
+Tempo de geração das chaves RSA: 5.074918335s
+Tempo de geração das chaves RSA: 6.57467214s
+Tempo de geração das chaves RSA: 4.467001893s
+Tempo de geração das chaves RSA: 10.457609183s
+Tempo de geração das chaves RSA: 10.903704121s
+Tempo de geração das chaves RSA: 21.986029963s
+Tempo de geração das chaves RSA: 3.529139183s
+Tempo de geração das chaves RSA: 7.797556862s
+Tempo de geração das chaves RSA: 8.069865556s
+Tempo de geração das chaves RSA: 9.89420041s
+Tempo de geração das chaves RSA: 6.053974422s
+Tempo de geração das chaves RSA: 11.77450187s
+Tempo de geração das chaves RSA: 7.54726508s
+Tempo de geração das chaves RSA: 5.996307231s
+Tempo de geração das chaves RSA: 3.733658142s
+Tempo de geração das chaves RSA: 4.375254237s
+Tempo de geração das chaves RSA: 11.903575112s
+Tempo de geração das chaves RSA: 11.099652514s
+Tempo de geração das chaves RSA: 4.212512294s
+Tempo de geração das chaves RSA: 12.15272313s
+Tempo de geração das chaves RSA: 15.491766574s
+Tempo de geração das chaves RSA: 27.798310717s
+Tempo de geração das chaves RSA: 13.938299185s
+Tempo de geração das chaves RSA: 9.139591407s
+Tempo de geração das chaves RSA: 9.662413233s
+Tempo de geração das chaves RSA: 8.380684146s
+Tempo de geração das chaves RSA: 3.0621441s
+Tempo de geração das chaves RSA: 6.881571716s
+Tempo de geração das chaves RSA: 9.478623546s
+Tempo de geração das chaves RSA: 16.609819857s
+Tempo de geração das chaves RSA: 4.535029676s
+Tempo de geração das chaves RSA: 3.737806257s
+Tempo de geração das chaves RSA: 9.751774448s
+Tempo de geração das chaves RSA: 2.633122318s
+Tempo de geração das chaves RSA: 13.65265318s
+Tempo de geração das chaves RSA: 4.697787604s
+Tempo de geração das chaves RSA: 4.406882851s
+Tempo de geração das chaves RSA: 5.21682314s
+Tempo de geração das chaves RSA: 6.956271771s
+Tempo de geração das chaves RSA: 8.382932551s
+Tempo de geração das chaves RSA: 8.084690387s
+Tempo de geração das chaves RSA: 9.019433583s
+Tempo de geração das chaves RSA: 22.463083595s
+Tempo de geração das chaves RSA: 4.364073958s
+Tempo de geração das chaves RSA: 5.955248215s
+Tempo de geração das chaves RSA: 5.415856256s
+Tempo de geração das chaves RSA: 5.919877221s
+Tempo de geração das chaves RSA: 7.861361391s
+Tempo de geração das chaves RSA: 7.235244746s
+Tempo de geração das chaves RSA: 4.443534534s
+Tempo de geração das chaves RSA: 4.88052888s
+Tempo de geração das chaves RSA: 13.138568202s
+Tempo de geração das chaves RSA: 7.563197557s
+Tempo de geração das chaves RSA: 20.155783622s
+Tempo de geração das chaves RSA: 6.131848507s
+Tempo de geração das chaves RSA: 4.309663769s
+Tempo de geração das chaves RSA: 7.03173543s
+Tempo de geração das chaves RSA: 8.383839799s
+Tempo de geração das chaves RSA: 8.054341849s
+Tempo de geração das chaves RSA: 7.078095522s
+Tempo de geração das chaves RSA: 12.70992907s
+Tempo de geração das chaves RSA: 10.842999136s
+Tempo de geração das chaves RSA: 2.600025515s
+Tempo de geração das chaves RSA: 9.133517765s
+Tempo de geração das chaves RSA: 5.769603204s
+Tempo de geração das chaves RSA: 3.377534719s
+Tempo de geração das chaves RSA: 3.73588982s
+Tempo de geração das chaves RSA: 9.081560616s
+Tempo de geração das chaves RSA: 9.396235539s
+Tempo de geração das chaves RSA: 11.068569906s
+Tempo de geração das chaves RSA: 6.860458319s
+Tempo de geração das chaves RSA: 13.309508084s
+Tempo de geração das chaves RSA: 3.438096098s
+Tempo de geração das chaves RSA: 7.65866025s
+Tempo de geração das chaves RSA: 24.587588485s
+Tempo de geração das chaves RSA: 11.899764404s
+Tempo de geração das chaves RSA: 14.399574242s
+Tempo de geração das chaves RSA: 22.047575788s
+Tempo de geração das chaves RSA: 6.382176722s
+Tempo de geração das chaves RSA: 9.204918364s
+Tempo de geração das chaves RSA: 11.876072853s
+Tempo de geração das chaves RSA: 11.162507562s
+Tempo de geração das chaves RSA: 4.068753641s
+Tempo de geração das chaves RSA: 9.258373322s
+Tempo de geração das chaves RSA: 3.636944696s
+Tempo de geração das chaves RSA: 3.278367893s
+Tempo de geração das chaves RSA: 8.599704381s
+Tempo de geração das chaves RSA: 3.260556629s
+Tempo de geração das chaves RSA: 13.834985728s
+Tempo de geração das chaves RSA: 5.380044597s
+Tempo de geração das chaves RSA: 8.060500739s
+Tempo de geração das chaves RSA: 4.289859213s
+Tempo de geração das chaves RSA: 5.409525201s
+Tempo de geração das chaves RSA: 4.819899981s
+Tempo de geração das chaves RSA: 12.32757497s
+Tempo de geração das chaves RSA: 22.969824321s
+Tempo de geração das chaves RSA: 8.846576891s
+Tempo de geração das chaves RSA: 5.299331607s
+Tempo de geração das chaves RSA: 14.743961759s
+Tempo de geração das chaves RSA: 2.661936676s
+Tempo de geração das chaves RSA: 4.668368818s
+Tempo de geração das chaves RSA: 8.272063985s
+Tempo de geração das chaves RSA: 6.280049156s
+Tempo de geração das chaves RSA: 4.531029832s
+Tempo de geração das chaves RSA: 5.98412754s
+Tempo de geração das chaves RSA: 14.508153756s
+Tempo de geração das chaves RSA: 15.663189787s
+Tempo de geração das chaves RSA: 4.178910716s
+Tempo de geração das chaves RSA: 8.049646493s
+Tempo de geração das chaves RSA: 17.17383789s
+Tempo de geração das chaves RSA: 4.436991473s
+Tempo de geração das chaves RSA: 14.871151212s
+Tempo de geração das chaves RSA: 6.289257711s
+Tempo de geração das chaves RSA: 7.427193494s
+Tempo de geração das chaves RSA: 4.609546928s
+Tempo de geração das chaves RSA: 2.781115781s
+Tempo de geração das chaves RSA: 5.059200878s
+Tempo de geração das chaves RSA: 10.202077578s
+Tempo de geração das chaves RSA: 9.596651054s
+Tempo de geração das chaves RSA: 9.866286039s
+Tempo de geração das chaves RSA: 8.832796054s
+Tempo de geração das chaves RSA: 4.364729383s
+Tempo de geração das chaves RSA: 12.305387807s
+Tempo de geração das chaves RSA: 6.567048338s
+Tempo de geração das chaves RSA: 8.169435482s
+Tempo de geração das chaves RSA: 22.882384921s
+Tempo de geração das chaves RSA: 7.827159418s
+Tempo de geração das chaves RSA: 11.938775487s
+Tempo de geração das chaves RSA: 6.152415127s
+Tempo de geração das chaves RSA: 2.99545902s
+Tempo de geração das chaves RSA: 5.854838284s
+Tempo de geração das chaves RSA: 16.876093219s
+Tempo de geração das chaves RSA: 3.658783701s
+Tempo de geração das chaves RSA: 11.319027847s
+Tempo de geração das chaves RSA: 7.654725573s
+Tempo de geração das chaves RSA: 8.64141774s
+Tempo de geração das chaves RSA: 8.403717048s
+Tempo de geração das chaves RSA: 5.526216627s
+Tempo de geração das chaves RSA: 7.383291305s
+Tempo de geração das chaves RSA: 10.081137653s
+Tempo de geração das chaves RSA: 7.292958541s
+Tempo de geração das chaves RSA: 2.984430256s
+Tempo de geração das chaves RSA: 4.665176939s
+Tempo de geração das chaves RSA: 3.626110226s
+Tempo de geração das chaves RSA: 10.559821991s
+Tempo de geração das chaves RSA: 5.103088161s
+Tempo de geração das chaves RSA: 22.231726478s
+Tempo de geração das chaves RSA: 5.710187901s
+Tempo de geração das chaves RSA: 5.165621196s
+Tempo de geração das chaves RSA: 15.760706168s
+Tempo de geração das chaves RSA: 11.817160022s
+Tempo de geração das chaves RSA: 3.967182485s
+Tempo de geração das chaves RSA: 8.480176189s
+Tempo de geração das chaves RSA: 10.825397729s
+Tempo de geração das chaves RSA: 4.921810806s
+Tempo de geração das chaves RSA: 4.442693115s
+Tempo de geração das chaves RSA: 8.835680619s
+Tempo de geração das chaves RSA: 12.977675934s
+Tempo de geração das chaves RSA: 5.808590287s
+Tempo de geração das chaves RSA: 8.594200787s
+Tempo de geração das chaves RSA: 3.304065814s
+Tempo de geração das chaves RSA: 11.189535963s
+Tempo de geração das chaves RSA: 2.106058678s
+Tempo de geração das chaves RSA: 6.288109002s
+Tempo de geração das chaves RSA: 9.353457051s
+Tempo de geração das chaves RSA: 13.43924201s
+Tempo de geração das chaves RSA: 12.287464399s
+Tempo de geração das chaves RSA: 4.095901341s
+Tempo de geração das chaves RSA: 5.204151933s
+Tempo de geração das chaves RSA: 14.858488411s
+Tempo de geração das chaves RSA: 10.840440736s
+Tempo de geração das chaves RSA: 4.405198809s
+Tempo de geração das chaves RSA: 3.118881053s
+Tempo de geração das chaves RSA: 2.919215689s
+Tempo de geração das chaves RSA: 9.89779729s
+Tempo de geração das chaves RSA: 3.897645786s
+Tempo de geração das chaves RSA: 2.888639088s
+Tempo de geração das chaves RSA: 3.432469878s
+Tempo de geração das chaves RSA: 10.127355298s
+Tempo de geração das chaves RSA: 8.06667513s
+Tempo de geração das chaves RSA: 11.880046343s
+Tempo de geração das chaves RSA: 10.472575568s
+Tempo de geração das chaves RSA: 7.556212731s
+Tempo de geração das chaves RSA: 7.282265711s
+Tempo de geração das chaves RSA: 15.046987515s
+Tempo de geração das chaves RSA: 6.176421999s
+Tempo de geração das chaves RSA: 8.095697417s
+Tempo de geração das chaves RSA: 13.056080606s
+Tempo de geração das chaves RSA: 4.480285618s
+Tempo de geração das chaves RSA: 3.081043387s
+Tempo de geração das chaves RSA: 17.416599529s
+Tempo de geração das chaves RSA: 15.987253711s
+Tempo de geração das chaves RSA: 5.071723223s
+Tempo de geração das chaves RSA: 2.861200793s
+Tempo de geração das chaves RSA: 17.781997431s
+Tempo de geração das chaves RSA: 6.869878833s
+Tempo de geração das chaves RSA: 3.196973358s
+Tempo de geração das chaves RSA: 13.857154756s
+Tempo de geração das chaves RSA: 15.891260288s
+Tempo de geração das chaves RSA: 6.862044534s
+Tempo de geração das chaves RSA: 9.020336262s
+Tempo de geração das chaves RSA: 9.450411533s
+Tempo de geração das chaves RSA: 4.640921803s
+Tempo de geração das chaves RSA: 9.179853475s
+Tempo de geração das chaves RSA: 4.97475673s
+Tempo de geração das chaves RSA: 5.622206842s
+Tempo de geração das chaves RSA: 4.931358364s
+Tempo de geração das chaves RSA: 4.091319418s
+Tempo de geração das chaves RSA: 3.369381677s
+Tempo de geração das chaves RSA: 4.541603098s
+Tempo de geração das chaves RSA: 8.879294776s
+Tempo de geração das chaves RSA: 13.696527098s
+Tempo de geração das chaves RSA: 8.487235295s
+Tempo de geração das chaves RSA: 9.996140375s
+Tempo de geração das chaves RSA: 9.174432162s
+Tempo de geração das chaves RSA: 13.194561296s
+Tempo de geração das chaves RSA: 13.661491617s
+Tempo de geração das chaves RSA: 13.360226521s
+Tempo de geração das chaves RSA: 8.803576549s
+Tempo de geração das chaves RSA: 5.462842897s
+Tempo de geração das chaves RSA: 4.438003227s
+Tempo de geração das chaves RSA: 5.115273144s
+Tempo de geração das chaves RSA: 4.210780038s
+Tempo de geração das chaves RSA: 10.210856963s
+Tempo de geração das chaves RSA: 8.090113159s
+Tempo de geração das chaves RSA: 4.160261595s
+Tempo de geração das chaves RSA: 7.445876103s
+Tempo de geração das chaves RSA: 2.698782277s
+Tempo de geração das chaves RSA: 5.32325449s
+Tempo de geração das chaves RSA: 10.977877633s
+Tempo de geração das chaves RSA: 11.349091986s
+Tempo de geração das chaves RSA: 11.388568914s
+Tempo de geração das chaves RSA: 6.539889599s
+Tempo de geração das chaves RSA: 2.300692502s
+Tempo de geração das chaves RSA: 4.163924346s
+Tempo de geração das chaves RSA: 7.277732077s
+Tempo de geração das chaves RSA: 7.05894746s
+Tempo de geração das chaves RSA: 2.34786285s
+Tempo de geração das chaves RSA: 10.346805942s
+Tempo de geração das chaves RSA: 2.211693727s
+Tempo de geração das chaves RSA: 4.839715252s
+Tempo de geração das chaves RSA: 5.126320425s
+Tempo de geração das chaves RSA: 9.827579719s
+Tempo de geração das chaves RSA: 10.214402496s
+Tempo de geração das chaves RSA: 7.038127235s
+Tempo de geração das chaves RSA: 6.769082597s
+Tempo de geração das chaves RSA: 9.136125016s
+Tempo de geração das chaves RSA: 9.069240641s
+Tempo de geração das chaves RSA: 4.896969763s
+Tempo de geração das chaves RSA: 4.266306717s
+Tempo de geração das chaves RSA: 5.673535052s
+Tempo de geração das chaves RSA: 5.306274366s
+Tempo de geração das chaves RSA: 2.415338396s
+Tempo de geração das chaves RSA: 6.370493206s
+Tempo de geração das chaves RSA: 2.629589853s
+Tempo de geração das chaves RSA: 6.103825993s
+Tempo de geração das chaves RSA: 11.959113003s
+Tempo de geração das chaves RSA: 4.746258735s
+Tempo de geração das chaves RSA: 5.330440397s
+Tempo de geração das chaves RSA: 7.989512824s
+Tempo de geração das chaves RSA: 6.353004107s
+Tempo de geração das chaves RSA: 7.978347845s
+Tempo de geração das chaves RSA: 6.313467712s
+Tempo de geração das chaves RSA: 8.536287996s
+Tempo de geração das chaves RSA: 3.425147878s
+Tempo de geração das chaves RSA: 20.581713337s
+Tempo de geração das chaves RSA: 10.049481502s
+Tempo de geração das chaves RSA: 2.784127579s
+Tempo de geração das chaves RSA: 3.247242472s
+Tempo de geração das chaves RSA: 10.712826967s
+Tempo de geração das chaves RSA: 12.118545478s
+Tempo de geração das chaves RSA: 17.319570517s
+Tempo de geração das chaves RSA: 4.378597525s
+Tempo de geração das chaves RSA: 7.249989766s
+Tempo de geração das chaves RSA: 12.68252731s
+Tempo de geração das chaves RSA: 2.058061488s
+Tempo de geração das chaves RSA: 4.748468123s
+Tempo de geração das chaves RSA: 5.70886725s
+Tempo de geração das chaves RSA: 2.445280093s
+Tempo de geração das chaves RSA: 9.53526728s
+Tempo de geração das chaves RSA: 11.300108928s
+Tempo de geração das chaves RSA: 5.954373507s
+Tempo de geração das chaves RSA: 11.780804688s
+Tempo de geração das chaves RSA: 5.647899192s
+Tempo de geração das chaves RSA: 19.329241744s
+Tempo de geração das chaves RSA: 6.883009001s
+Tempo de geração das chaves RSA: 10.094400164s
+Tempo de geração das chaves RSA: 5.448160497s
+Tempo de geração das chaves RSA: 3.363145891s
+Tempo de geração das chaves RSA: 6.713012479s
+Tempo de geração das chaves RSA: 3.513586837s
+Tempo de geração das chaves RSA: 3.927741661s
+Tempo de geração das chaves RSA: 4.061034425s
+Tempo de geração das chaves RSA: 9.334895938s
+Tempo de geração das chaves RSA: 5.344648691s
+Tempo de geração das chaves RSA: 4.731133212s
+Tempo de geração das chaves RSA: 4.791157676s
+Tempo de geração das chaves RSA: 12.212672224s
+Tempo de geração das chaves RSA: 5.456961918s
+Tempo de geração das chaves RSA: 7.817791834s
+Tempo de geração das chaves RSA: 3.328679041s
+Tempo de geração das chaves RSA: 7.051870486s
+Tempo de geração das chaves RSA: 5.351884439s
+Tempo de geração das chaves RSA: 8.803068538s
+Tempo de geração das chaves RSA: 8.75049006s
+Tempo de geração das chaves RSA: 8.149644986s
+Tempo de geração das chaves RSA: 2.792202774s
+Tempo de geração das chaves RSA: 2.594176061s
+Tempo de geração das chaves RSA: 2.109963111s
+Tempo de geração das chaves RSA: 6.024734521s
+Tempo de geração das chaves RSA: 4.494605848s
+Tempo de geração das chaves RSA: 3.640236635s
+Tempo de geração das chaves RSA: 5.41159086s
+Tempo de geração das chaves RSA: 2.593203003s
+Tempo de geração das chaves RSA: 20.710905137s
+Tempo de geração das chaves RSA: 8.226738145s
+Tempo de geração das chaves RSA: 4.432945741s
+Tempo de geração das chaves RSA: 5.337727375s
+Tempo de geração das chaves RSA: 12.903665626s
+Tempo de geração das chaves RSA: 11.203712067s
+Tempo de geração das chaves RSA: 4.582262021s
+Tempo de geração das chaves RSA: 9.188498571s
+Tempo de geração das chaves RSA: 2.863151175s
+Tempo de geração das chaves RSA: 12.841218258s
+Tempo de geração das chaves RSA: 7.141407391s
+Tempo de geração das chaves RSA: 22.55449671s
+Tempo de geração das chaves RSA: 7.515332547s
+Tempo de geração das chaves RSA: 6.876746134s
+Tempo de geração das chaves RSA: 16.726088476s
+Tempo de geração das chaves RSA: 11.473788637s
+Tempo de geração das chaves RSA: 5.891570645s
+Tempo de geração das chaves RSA: 5.471352221s
+Tempo de geração das chaves RSA: 9.321812915s
+Tempo de geração das chaves RSA: 8.293069107s
+
+
+CPU: 25.25% | Memória usada: 71374 KB / 951402 KB
+CPU: 20.50% | Memória usada: 71370 KB / 951402 KB
+CPU: 22.02% | Memória usada: 71362 KB / 951402 KB
+CPU: 21.08% | Memória usada: 71353 KB / 951402 KB
+CPU: 21.88% | Memória usada: 71345 KB / 951402 KB
+CPU: 22.47% | Memória usada: 71337 KB / 951402 KB
+CPU: 21.96% | Memória usada: 71329 KB / 951402 KB
+CPU: 20.78% | Memória usada: 71321 KB / 951402 KB
+CPU: 22.57% | Memória usada: 71312 KB / 951402 KB
+CPU: 17.39% | Memória usada: 71312 KB / 951402 KB
+CPU: 20.80% | Memória usada: 71304 KB / 951402 KB
+CPU: 18.86% | Memória usada: 71304 KB / 951402 KB
+CPU: 24.25% | Memória usada: 71296 KB / 951402 KB
+CPU: 19.87% | Memória usada: 71296 KB / 951402 KB
+CPU: 23.64% | Memória usada: 71510 KB / 951402 KB
+CPU: 22.01% | Memória usada: 71502 KB / 951402 KB
+CPU: 22.93% | Memória usada: 71751 KB / 951402 KB
+CPU: 21.37% | Memória usada: 71743 KB / 951402 KB
+CPU: 24.16% | Memória usada: 71735 KB / 951402 KB
+CPU: 22.38% | Memória usada: 71727 KB / 951402 KB
+CPU: 21.92% | Memória usada: 71719 KB / 951402 KB
+CPU: 20.26% | Memória usada: 71719 KB / 951402 KB
+CPU: 21.05% | Memória usada: 71698 KB / 951402 KB
+CPU: 23.97% | Memória usada: 71690 KB / 951402 KB
+CPU: 21.39% | Memória usada: 71940 KB / 951402 KB
+CPU: 23.77% | Memória usada: 72190 KB / 951402 KB
+CPU: 22.92% | Memória usada: 72181 KB / 951402 KB
+CPU: 21.24% | Memória usada: 72173 KB / 951402 KB
+CPU: 22.99% | Memória usada: 72423 KB / 951402 KB
+CPU: 23.65% | Memória usada: 72415 KB / 951402 KB
+CPU: 23.05% | Memória usada: 72665 KB / 951402 KB
+CPU: 21.77% | Memória usada: 72656 KB / 951402 KB
+CPU: 22.62% | Memória usada: 72648 KB / 951402 KB
+CPU: 20.38% | Memória usada: 72648 KB / 951402 KB
+CPU: 21.12% | Memória usada: 72632 KB / 951402 KB
+CPU: 21.40% | Memória usada: 72624 KB / 951402 KB
+CPU: 22.02% | Memória usada: 72873 KB / 951402 KB
+CPU: 24.01% | Memória usada: 73123 KB / 951402 KB
+CPU: 24.04% | Memória usada: 73873 KB / 951402 KB
+CPU: 19.57% | Memória usada: 73861 KB / 951402 KB
+CPU: 21.83% | Memória usada: 73853 KB / 951402 KB
+CPU: 22.65% | Memória usada: 73844 KB / 951402 KB
+CPU: 21.22% | Memória usada: 73836 KB / 951402 KB
+CPU: 22.20% | Memória usada: 73828 KB / 951402 KB
+CPU: 24.00% | Memória usada: 69015 KB / 951402 KB
+CPU: 18.44% | Memória usada: 69015 KB / 951402 KB
+CPU: 18.80% | Memória usada: 69266 KB / 951402 KB
+CPU: 21.95% | Memória usada: 69257 KB / 951402 KB
+CPU: 20.00% | Memória usada: 69257 KB / 951402 KB
+CPU: 21.08% | Memória usada: 69249 KB / 951402 KB
+CPU: 22.45% | Memória usada: 69241 KB / 951402 KB
+CPU: 23.02% | Memória usada: 69233 KB / 951402 KB
+CPU: 22.93% | Memória usada: 69225 KB / 951402 KB
+CPU: 24.21% | Memória usada: 69208 KB / 951402 KB
+CPU: 20.30% | Memória usada: 69208 KB / 951402 KB
+CPU: 22.62% | Memória usada: 69192 KB / 951402 KB
+CPU: 23.47% | Memória usada: 69184 KB / 951402 KB
+CPU: 22.25% | Memória usada: 69175 KB / 951402 KB
+CPU: 21.47% | Memória usada: 69167 KB / 951402 KB
+CPU: 21.44% | Memória usada: 69159 KB / 951402 KB
+CPU: 22.39% | Memória usada: 69388 KB / 951402 KB
+CPU: 23.07% | Memória usada: 69380 KB / 951402 KB
+CPU: 22.24% | Memória usada: 69372 KB / 951402 KB
+CPU: 23.84% | Memória usada: 69364 KB / 951402 KB
+CPU: 22.47% | Memória usada: 69356 KB / 951402 KB
+CPU: 23.30% | Memória usada: 69348 KB / 951402 KB
+CPU: 23.54% | Memória usada: 69339 KB / 951402 KB
+CPU: 23.67% | Memória usada: 69581 KB / 951402 KB
+CPU: 20.82% | Memória usada: 69581 KB / 951402 KB
+CPU: 22.01% | Memória usada: 69565 KB / 951402 KB
+CPU: 21.46% | Memória usada: 69556 KB / 951402 KB
+CPU: 22.90% | Memória usada: 69806 KB / 951402 KB
+CPU: 22.47% | Memória usada: 69798 KB / 951402 KB
+CPU: 20.54% | Memória usada: 70056 KB / 951402 KB
+CPU: 20.93% | Memória usada: 70298 KB / 951402 KB
+CPU: 22.75% | Memória usada: 70285 KB / 951402 KB
+CPU: 22.31% | Memória usada: 70277 KB / 951402 KB
+CPU: 22.03% | Memória usada: 70269 KB / 951402 KB
+CPU: 20.52% | Memória usada: 70269 KB / 951402 KB
+CPU: 23.49% | Memória usada: 70253 KB / 951402 KB
+CPU: 23.69% | Memória usada: 70236 KB / 951402 KB
+CPU: 21.87% | Memória usada: 70478 KB / 951402 KB
+CPU: 20.93% | Memória usada: 70478 KB / 951402 KB
+CPU: 23.22% | Memória usada: 70470 KB / 951402 KB
+CPU: 20.67% | Memória usada: 70470 KB / 951402 KB
+CPU: 21.84% | Memória usada: 70453 KB / 951402 KB
+CPU: 22.16% | Memória usada: 70445 KB / 951402 KB
+CPU: 21.62% | Memória usada: 70437 KB / 951402 KB
+CPU: 21.59% | Memória usada: 70429 KB / 951402 KB
+CPU: 22.80% | Memória usada: 70421 KB / 951402 KB
+CPU: 22.13% | Memória usada: 70413 KB / 951402 KB
+CPU: 19.68% | Memória usada: 70413 KB / 951402 KB
+CPU: 22.24% | Memória usada: 70404 KB / 951402 KB
+CPU: 21.02% | Memória usada: 70396 KB / 951402 KB
+CPU: 21.06% | Memória usada: 70388 KB / 951402 KB
+CPU: 18.88% | Memória usada: 70388 KB / 951402 KB
+CPU: 23.36% | Memória usada: 70380 KB / 951402 KB
+CPU: 22.79% | Memória usada: 70367 KB / 951402 KB
+CPU: 21.06% | Memória usada: 70624 KB / 951402 KB
+CPU: 22.56% | Memória usada: 70608 KB / 951402 KB
+CPU: 25.47% | Memória usada: 70636 KB / 951402 KB
+CPU: 21.78% | Memória usada: 70624 KB / 951402 KB
+CPU: 19.90% | Memória usada: 70624 KB / 951402 KB
+CPU: 23.26% | Memória usada: 70875 KB / 951402 KB
+CPU: 22.46% | Memória usada: 70867 KB / 951402 KB
+CPU: 22.60% | Memória usada: 70858 KB / 951402 KB
+CPU: 22.76% | Memória usada: 71108 KB / 951402 KB
+CPU: 23.64% | Memória usada: 71100 KB / 951402 KB
+CPU: 20.09% | Memória usada: 71100 KB / 951402 KB
+CPU: 23.21% | Memória usada: 71350 KB / 951402 KB
+CPU: 23.91% | Memória usada: 71600 KB / 951402 KB
+CPU: 23.41% | Memória usada: 71591 KB / 951402 KB
+CPU: 23.19% | Memória usada: 71583 KB / 951402 KB
+CPU: 22.84% | Memória usada: 71833 KB / 951402 KB
+CPU: 22.05% | Memória usada: 72591 KB / 951402 KB
+CPU: 22.31% | Memória usada: 72582 KB / 951402 KB
+CPU: 23.64% | Memória usada: 72574 KB / 951402 KB
+CPU: 19.44% | Memória usada: 72574 KB / 951402 KB
+CPU: 22.59% | Memória usada: 72824 KB / 951402 KB
+CPU: 21.44% | Memória usada: 72816 KB / 951402 KB
+CPU: 21.48% | Memória usada: 72808 KB / 951402 KB
+CPU: 22.87% | Memória usada: 73053 KB / 951402 KB
+CPU: 22.67% | Memória usada: 73274 KB / 951402 KB
+CPU: 22.43% | Memória usada: 73266 KB / 951402 KB
+CPU: 19.15% | Memória usada: 73266 KB / 951402 KB
+CPU: 17.85% | Memória usada: 73258 KB / 951402 KB
+CPU: 22.10% | Memória usada: 73250 KB / 951402 KB
+CPU: 23.24% | Memória usada: 73241 KB / 951402 KB
+CPU: 22.01% | Memória usada: 73233 KB / 951402 KB
+CPU: 19.43% | Memória usada: 73233 KB / 951402 KB
+CPU: 23.14% | Memória usada: 73225 KB / 951402 KB
+CPU: 19.66% | Memória usada: 73225 KB / 951402 KB
+CPU: 22.62% | Memória usada: 73217 KB / 951402 KB
+CPU: 22.71% | Memória usada: 73209 KB / 951402 KB
+CPU: 22.30% | Memória usada: 73201 KB / 951402 KB
+CPU: 21.15% | Memória usada: 73192 KB / 951402 KB
+CPU: 22.78% | Memória usada: 73184 KB / 951402 KB
+CPU: 23.80% | Memória usada: 73168 KB / 951402 KB
+CPU: 22.85% | Memória usada: 73160 KB / 951402 KB
+CPU: 23.02% | Memória usada: 73151 KB / 951402 KB
+CPU: 20.43% | Memória usada: 73151 KB / 951402 KB
+CPU: 22.34% | Memória usada: 73135 KB / 951402 KB
+CPU: 23.87% | Memória usada: 73127 KB / 951402 KB
+CPU: 19.74% | Memória usada: 73127 KB / 951402 KB
+CPU: 23.76% | Memória usada: 73110 KB / 951402 KB
+CPU: 21.28% | Memória usada: 73102 KB / 951402 KB
+CPU: 23.03% | Memória usada: 73094 KB / 951402 KB
+CPU: 19.36% | Memória usada: 73094 KB / 951402 KB
+CPU: 22.86% | Memória usada: 73086 KB / 951402 KB
+CPU: 20.35% | Memória usada: 73086 KB / 951402 KB
+CPU: 20.98% | Memória usada: 73077 KB / 951402 KB
+CPU: 17.50% | Memória usada: 73069 KB / 951402 KB
+CPU: 23.68% | Memória usada: 73053 KB / 951402 KB
+CPU: 23.81% | Memória usada: 73045 KB / 951402 KB
+CPU: 21.71% | Memória usada: 73037 KB / 951402 KB
+CPU: 21.14% | Memória usada: 73028 KB / 951402 KB
+CPU: 23.32% | Memória usada: 73020 KB / 951402 KB
+CPU: 21.32% | Memória usada: 73020 KB / 951402 KB
+CPU: 21.07% | Memória usada: 73012 KB / 951402 KB
+CPU: 21.04% | Memória usada: 73250 KB / 951402 KB
+CPU: 21.57% | Memória usada: 72984 KB / 951402 KB
+CPU: 22.63% | Memória usada: 72975 KB / 951402 KB
+CPU: 20.99% | Memória usada: 72975 KB / 951402 KB
+CPU: 21.93% | Memória usada: 72959 KB / 951402 KB
+CPU: 23.71% | Memória usada: 72951 KB / 951402 KB
+CPU: 22.93% | Memória usada: 72943 KB / 951402 KB
+CPU: 21.03% | Memória usada: 72942 KB / 951402 KB
+CPU: 21.80% | Memória usada: 72926 KB / 951402 KB
+CPU: 20.54% | Memória usada: 72926 KB / 951402 KB
+CPU: 22.94% | Memória usada: 72910 KB / 951402 KB
+CPU: 23.02% | Memória usada: 72874 KB / 951402 KB
+CPU: 24.00% | Memória usada: 68035 KB / 951402 KB
+CPU: 19.63% | Memória usada: 68035 KB / 951402 KB
+CPU: 22.29% | Memória usada: 68286 KB / 951402 KB
+CPU: 22.38% | Memória usada: 68278 KB / 951402 KB
+CPU: 22.80% | Memória usada: 68270 KB / 951402 KB
+CPU: 21.60% | Memória usada: 68262 KB / 951402 KB
+CPU: 23.16% | Memória usada: 68253 KB / 951402 KB
+CPU: 22.24% | Memória usada: 68475 KB / 951402 KB
+CPU: 21.55% | Memória usada: 68474 KB / 951402 KB
+CPU: 19.89% | Memória usada: 68466 KB / 951402 KB
+CPU: 20.48% | Memória usada: 68454 KB / 951402 KB
+CPU: 23.18% | Memória usada: 68446 KB / 951402 KB
+CPU: 23.03% | Memória usada: 68438 KB / 951402 KB
+CPU: 20.34% | Memória usada: 68438 KB / 951402 KB
+CPU: 23.22% | Memória usada: 68422 KB / 951402 KB
+CPU: 23.59% | Memória usada: 68413 KB / 951402 KB
+CPU: 24.24% | Memória usada: 68397 KB / 951402 KB
+CPU: 23.44% | Memória usada: 68389 KB / 951402 KB
+CPU: 22.65% | Memória usada: 68381 KB / 951402 KB
+CPU: 22.78% | Memória usada: 68372 KB / 951402 KB
+CPU: 22.47% | Memória usada: 68364 KB / 951402 KB
+CPU: 19.05% | Memória usada: 68364 KB / 951402 KB
+CPU: 21.94% | Memória usada: 68356 KB / 951402 KB
+CPU: 22.75% | Memória usada: 68348 KB / 951402 KB
+CPU: 23.68% | Memória usada: 68340 KB / 951402 KB
+CPU: 20.64% | Memória usada: 68340 KB / 951402 KB
+CPU: 19.92% | Memória usada: 68331 KB / 951402 KB
+CPU: 22.80% | Memória usada: 68577 KB / 951402 KB
+CPU: 18.33% | Memória usada: 68577 KB / 951402 KB
+CPU: 25.18% | Memória usada: 69834 KB / 951402 KB
+CPU: 20.78% | Memória usada: 69830 KB / 951402 KB
+CPU: 20.49% | Memória usada: 69822 KB / 951402 KB
+CPU: 21.15% | Memória usada: 69814 KB / 951402 KB
+CPU: 22.02% | Memória usada: 69797 KB / 951402 KB
+CPU: 22.46% | Memória usada: 70047 KB / 951402 KB
+CPU: 22.38% | Memória usada: 70039 KB / 951402 KB
+CPU: 22.67% | Memória usada: 70031 KB / 951402 KB
+CPU: 24.04% | Memória usada: 70015 KB / 951402 KB
+CPU: 20.49% | Memória usada: 70015 KB / 951402 KB
+CPU: 21.53% | Memória usada: 69998 KB / 951402 KB
+CPU: 21.24% | Memória usada: 69990 KB / 951402 KB
+CPU: 21.51% | Memória usada: 69990 KB / 951402 KB
+CPU: 22.32% | Memória usada: 69970 KB / 951402 KB
+CPU: 22.09% | Memória usada: 69961 KB / 951402 KB
+CPU: 20.52% | Memória usada: 69961 KB / 951402 KB
+CPU: 20.85% | Memória usada: 69945 KB / 951402 KB
+CPU: 23.37% | Memória usada: 69937 KB / 951402 KB
+CPU: 22.18% | Memória usada: 69929 KB / 951402 KB
+CPU: 23.92% | Memória usada: 69920 KB / 951402 KB
+CPU: 21.62% | Memória usada: 69912 KB / 951402 KB
+CPU: 20.40% | Memória usada: 69912 KB / 951402 KB
+CPU: 22.03% | Memória usada: 70154 KB / 951402 KB
+CPU: 22.44% | Memória usada: 70146 KB / 951402 KB
+CPU: 22.37% | Memória usada: 70395 KB / 951402 KB
+CPU: 22.00% | Memória usada: 70387 KB / 951402 KB
+CPU: 23.29% | Memória usada: 70637 KB / 951402 KB
+CPU: 22.99% | Memória usada: 70629 KB / 951402 KB
+CPU: 18.22% | Memória usada: 70629 KB / 951402 KB
+CPU: 22.66% | Memória usada: 70621 KB / 951402 KB
+CPU: 21.46% | Memória usada: 70613 KB / 951402 KB
+CPU: 19.40% | Memória usada: 70613 KB / 951402 KB
+CPU: 19.94% | Memória usada: 70604 KB / 951402 KB
+CPU: 22.61% | Memória usada: 70596 KB / 951402 KB
+CPU: 22.71% | Memória usada: 70588 KB / 951402 KB
+CPU: 23.04% | Memória usada: 70576 KB / 951402 KB
+CPU: 22.00% | Memória usada: 70568 KB / 951402 KB
+CPU: 23.34% | Memória usada: 70559 KB / 951402 KB
+CPU: 19.53% | Memória usada: 70559 KB / 951402 KB
+CPU: 22.24% | Memória usada: 70551 KB / 951402 KB
+CPU: 24.12% | Memória usada: 70543 KB / 951402 KB
+CPU: 23.17% | Memória usada: 70535 KB / 951402 KB
+CPU: 23.48% | Memória usada: 70527 KB / 951402 KB
+CPU: 24.02% | Memória usada: 70768 KB / 951402 KB
+CPU: 21.73% | Memória usada: 70760 KB / 951402 KB
+CPU: 22.69% | Memória usada: 71010 KB / 951402 KB
+CPU: 23.20% | Memória usada: 71002 KB / 951402 KB
+CPU: 23.05% | Memória usada: 70993 KB / 951402 KB
+CPU: 20.22% | Memória usada: 70993 KB / 951402 KB
+CPU: 22.68% | Memória usada: 70977 KB / 951402 KB
+CPU: 19.76% | Memória usada: 70977 KB / 951402 KB
+CPU: 19.32% | Memória usada: 70969 KB / 951402 KB
+CPU: 22.54% | Memória usada: 70961 KB / 951402 KB
+CPU: 19.28% | Memória usada: 70961 KB / 951402 KB
+CPU: 23.42% | Memória usada: 71210 KB / 951402 KB
+CPU: 21.23% | Memória usada: 71202 KB / 951402 KB
+CPU: 22.38% | Memória usada: 71452 KB / 951402 KB
+CPU: 20.44% | Memória usada: 71452 KB / 951402 KB
+CPU: 21.24% | Memória usada: 71436 KB / 951402 KB
+CPU: 20.84% | Memória usada: 71436 KB / 951402 KB
+CPU: 23.22% | Memória usada: 71419 KB / 951402 KB
+CPU: 24.06% | Memória usada: 71411 KB / 951402 KB
+CPU: 22.58% | Memória usada: 71403 KB / 951402 KB
+CPU: 21.16% | Memória usada: 71403 KB / 951402 KB
+CPU: 23.55% | Memória usada: 71387 KB / 951402 KB
+CPU: 18.33% | Memória usada: 71387 KB / 951402 KB
+CPU: 20.69% | Memória usada: 71378 KB / 951402 KB
+CPU: 22.42% | Memória usada: 71370 KB / 951402 KB
+CPU: 21.67% | Memória usada: 71362 KB / 951402 KB
+CPU: 20.72% | Memória usada: 71362 KB / 951402 KB
+CPU: 21.53% | Memória usada: 71346 KB / 951402 KB
+CPU: 23.49% | Memória usada: 71337 KB / 951402 KB
+CPU: 23.61% | Memória usada: 71329 KB / 951402 KB
+CPU: 20.31% | Memória usada: 71329 KB / 951402 KB
+CPU: 22.35% | Memória usada: 71313 KB / 951402 KB
+CPU: 23.73% | Memória usada: 71563 KB / 951402 KB
+CPU: 20.52% | Memória usada: 71563 KB / 951402 KB
+CPU: 23.55% | Memória usada: 71546 KB / 951402 KB
+CPU: 21.67% | Memória usada: 71538 KB / 951402 KB
+CPU: 22.15% | Memória usada: 71530 KB / 951402 KB
+CPU: 20.75% | Memória usada: 71530 KB / 951402 KB
+CPU: 18.57% | Memória usada: 71518 KB / 951402 KB
+CPU: 20.98% | Memória usada: 71509 KB / 951402 KB
+CPU: 22.91% | Memória usada: 71501 KB / 951402 KB
+CPU: 22.76% | Memória usada: 71493 KB / 951402 KB
+CPU: 22.82% | Memória usada: 71485 KB / 951402 KB
+CPU: 22.55% | Memória usada: 71469 KB / 951402 KB
+CPU: 20.49% | Memória usada: 71469 KB / 951402 KB
+CPU: 23.23% | Memória usada: 71452 KB / 951402 KB
+CPU: 21.83% | Memória usada: 71444 KB / 951402 KB
+CPU: 22.37% | Memória usada: 71436 KB / 951402 KB
+CPU: 24.08% | Memória usada: 66591 KB / 951402 KB
+CPU: 22.27% | Memória usada: 66582 KB / 951402 KB
+CPU: 23.21% | Memória usada: 66832 KB / 951402 KB
+CPU: 21.62% | Memória usada: 66824 KB / 951402 KB
+CPU: 18.87% | Memória usada: 66824 KB / 951402 KB
+CPU: 21.46% | Memória usada: 67074 KB / 951402 KB
+CPU: 23.72% | Memória usada: 67066 KB / 951402 KB
+CPU: 19.73% | Memória usada: 67066 KB / 951402 KB
+CPU: 23.09% | Memória usada: 67315 KB / 951402 KB
+CPU: 25.26% | Memória usada: 69872 KB / 951402 KB
+CPU: 22.54% | Memória usada: 70117 KB / 951402 KB
+CPU: 22.46% | Memória usada: 70109 KB / 951402 KB
+CPU: 21.35% | Memória usada: 70101 KB / 951402 KB
+CPU: 22.11% | Memória usada: 70093 KB / 951402 KB
+CPU: 22.89% | Memória usada: 70085 KB / 951402 KB
+CPU: 22.10% | Memória usada: 70334 KB / 951402 KB
+CPU: 18.91% | Memória usada: 70334 KB / 951402 KB
+CPU: 20.74% | Memória usada: 70326 KB / 951402 KB
+CPU: 19.72% | Memória usada: 70326 KB / 951402 KB
+CPU: 22.94% | Memória usada: 70318 KB / 951402 KB
+CPU: 21.06% | Memória usada: 70318 KB / 951402 KB
+CPU: 24.03% | Memória usada: 70531 KB / 951402 KB
+CPU: 21.38% | Memória usada: 70531 KB / 951402 KB
+CPU: 21.09% | Memória usada: 70522 KB / 951402 KB
+CPU: 23.64% | Memória usada: 70506 KB / 951402 KB
+CPU: 23.16% | Memória usada: 70498 KB / 951402 KB
+CPU: 20.09% | Memória usada: 70498 KB / 951402 KB
+CPU: 22.47% | Memória usada: 70490 KB / 951402 KB
+CPU: 23.02% | Memória usada: 70482 KB / 951402 KB
+CPU: 20.91% | Memória usada: 70481 KB / 951402 KB
+CPU: 20.57% | Memória usada: 70473 KB / 951402 KB
+CPU: 22.58% | Memória usada: 70457 KB / 951402 KB
+CPU: 23.33% | Memória usada: 70449 KB / 951402 KB
+CPU: 21.44% | Memória usada: 70441 KB / 951402 KB
+CPU: 22.52% | Memória usada: 70432 KB / 951402 KB
+CPU: 19.37% | Memória usada: 70432 KB / 951402 KB
+CPU: 23.04% | Memória usada: 70424 KB / 951402 KB
+CPU: 17.10% | Memória usada: 70424 KB / 951402 KB
+CPU: 21.70% | Memória usada: 70416 KB / 951402 KB
+CPU: 22.69% | Memória usada: 70408 KB / 951402 KB
+CPU: 23.38% | Memória usada: 70400 KB / 951402 KB
+CPU: 23.23% | Memória usada: 70391 KB / 951402 KB
+CPU: 20.21% | Memória usada: 70391 KB / 951402 KB
+CPU: 21.11% | Memória usada: 70633 KB / 951402 KB
+CPU: 23.53% | Memória usada: 70625 KB / 951402 KB
+CPU: 22.99% | Memória usada: 70617 KB / 951402 KB
+CPU: 20.54% | Memória usada: 70616 KB / 951402 KB
+CPU: 19.09% | Memória usada: 70608 KB / 951402 KB
+CPU: 18.80% | Memória usada: 70600 KB / 951402 KB
+CPU: 22.80% | Memória usada: 70592 KB / 951402 KB
+CPU: 20.13% | Memória usada: 70592 KB / 951402 KB
+CPU: 18.73% | Memória usada: 70584 KB / 951402 KB
+CPU: 19.50% | Memória usada: 70584 KB / 951402 KB
+CPU: 22.85% | Memória usada: 70576 KB / 951402 KB
+CPU: 22.37% | Memória usada: 70568 KB / 951402 KB
+CPU: 23.20% | Memória usada: 70559 KB / 951402 KB
+CPU: 22.95% | Memória usada: 70551 KB / 951402 KB
+CPU: 22.21% | Memória usada: 70527 KB / 951402 KB
+CPU: 22.14% | Memória usada: 70518 KB / 951402 KB
+CPU: 23.55% | Memória usada: 70510 KB / 951402 KB
+CPU: 21.65% | Memória usada: 70502 KB / 951402 KB
+CPU: 22.38% | Memória usada: 70494 KB / 951402 KB
+CPU: 23.31% | Memória usada: 70486 KB / 951402 KB
+CPU: 20.54% | Memória usada: 70486 KB / 951402 KB
+CPU: 19.08% | Memória usada: 70477 KB / 951402 KB
+CPU: 23.74% | Memória usada: 70469 KB / 951402 KB
+CPU: 23.63% | Memória usada: 70461 KB / 951402 KB
+CPU: 20.98% | Memória usada: 70461 KB / 951402 KB
+CPU: 18.72% | Memória usada: 70453 KB / 951402 KB
+CPU: 23.79% | Memória usada: 70445 KB / 951402 KB
+CPU: 21.95% | Memória usada: 70436 KB / 951402 KB
+CPU: 19.20% | Memória usada: 70436 KB / 951402 KB
+CPU: 23.44% | Memória usada: 70657 KB / 951402 KB
+CPU: 23.61% | Memória usada: 70649 KB / 951402 KB
+CPU: 21.91% | Memória usada: 70641 KB / 951402 KB
+CPU: 22.64% | Memória usada: 70633 KB / 951402 KB
+CPU: 22.74% | Memória usada: 70641 KB / 951402 KB
+CPU: 20.67% | Memória usada: 70641 KB / 951402 KB
+CPU: 22.72% | Memória usada: 70624 KB / 951402 KB
+CPU: 20.93% | Memória usada: 70624 KB / 951402 KB
+CPU: 21.34% | Memória usada: 70608 KB / 951402 KB
+CPU: 20.92% | Memória usada: 70608 KB / 951402 KB
+CPU: 20.19% | Memória usada: 70600 KB / 951402 KB
+CPU: 19.43% | Memória usada: 70591 KB / 951402 KB
+CPU: 20.64% | Memória usada: 70583 KB / 951402 KB
+CPU: 22.59% | Memória usada: 70575 KB / 951402 KB
+CPU: 23.40% | Memória usada: 70567 KB / 951402 KB
+CPU: 22.46% | Memória usada: 70559 KB / 951402 KB
+CPU: 22.84% | Memória usada: 70550 KB / 951402 KB
+CPU: 22.65% | Memória usada: 70542 KB / 951402 KB
+CPU: 23.35% | Memória usada: 70530 KB / 951402 KB
+CPU: 23.39% | Memória usada: 70776 KB / 951402 KB
+CPU: 23.38% | Memória usada: 70497 KB / 951402 KB
+CPU: 22.56% | Memória usada: 70489 KB / 951402 KB
+CPU: 21.29% | Memória usada: 70219 KB / 951402 KB
+CPU: 20.58% | Memória usada: 70219 KB / 951402 KB
+CPU: 21.02% | Memória usada: 70211 KB / 951402 KB
+CPU: 20.34% | Memória usada: 70203 KB / 951402 KB
+CPU: 22.88% | Memória usada: 70186 KB / 951402 KB
+CPU: 22.40% | Memória usada: 70178 KB / 951402 KB
+CPU: 20.26% | Memória usada: 69891 KB / 951402 KB
+CPU: 22.20% | Memória usada: 65317 KB / 951402 KB
+CPU: 18.36% | Memória usada: 65317 KB / 951402 KB
+CPU: 21.17% | Memória usada: 65300 KB / 951402 KB
+CPU: 23.02% | Memória usada: 65292 KB / 951402 KB
+CPU: 23.10% | Memória usada: 65284 KB / 951402 KB
+CPU: 23.11% | Memória usada: 65276 KB / 951402 KB
+CPU: 21.80% | Memória usada: 65268 KB / 951402 KB
+CPU: 17.60% | Memória usada: 65268 KB / 951402 KB
+CPU: 25.40% | Memória usada: 69068 KB / 951402 KB
+CPU: 22.11% | Memória usada: 69056 KB / 951402 KB
+CPU: 22.01% | Memória usada: 69305 KB / 951402 KB
+CPU: 17.71% | Memória usada: 69305 KB / 951402 KB
+CPU: 22.91% | Memória usada: 69297 KB / 951402 KB
+CPU: 17.30% | Memória usada: 69297 KB / 951402 KB
+CPU: 20.86% | Memória usada: 69289 KB / 951402 KB
+CPU: 21.06% | Memória usada: 69281 KB / 951402 KB
+CPU: 22.80% | Memória usada: 69531 KB / 951402 KB
+CPU: 22.89% | Memória usada: 69522 KB / 951402 KB
+CPU: 22.02% | Memória usada: 69772 KB / 951402 KB
+CPU: 21.90% | Memória usada: 69764 KB / 951402 KB
+CPU: 22.63% | Memória usada: 69756 KB / 951402 KB
+CPU: 22.63% | Memória usada: 70007 KB / 951402 KB
+CPU: 20.87% | Memória usada: 70007 KB / 951402 KB
+CPU: 20.40% | Memória usada: 69999 KB / 951402 KB
+CPU: 21.37% | Memória usada: 69990 KB / 951402 KB
+CPU: 21.14% | Memória usada: 69970 KB / 951402 KB
+CPU: 17.83% | Memória usada: 69970 KB / 951402 KB
+CPU: 21.75% | Memória usada: 69962 KB / 951402 KB
+CPU: 18.22% | Memória usada: 70220 KB / 951402 KB
+CPU: 21.62% | Memória usada: 70228 KB / 951402 KB
+CPU: 23.18% | Memória usada: 70219 KB / 951402 KB
+CPU: 20.72% | Memória usada: 70219 KB / 951402 KB
+CPU: 21.21% | Memória usada: 70211 KB / 951402 KB
+CPU: 22.35% | Memória usada: 70195 KB / 951402 KB
+CPU: 21.71% | Memória usada: 70187 KB / 951402 KB
+CPU: 22.35% | Memória usada: 70178 KB / 951402 KB
+CPU: 21.82% | Memória usada: 70936 KB / 951402 KB
+CPU: 22.52% | Memória usada: 70928 KB / 951402 KB
+CPU: 19.49% | Memória usada: 70928 KB / 951402 KB
+CPU: 23.95% | Memória usada: 70920 KB / 951402 KB
+CPU: 22.89% | Memória usada: 70911 KB / 951402 KB
+CPU: 18.53% | Memória usada: 70911 KB / 951402 KB
+CPU: 19.23% | Memória usada: 70903 KB / 951402 KB
+CPU: 23.02% | Memória usada: 70895 KB / 951402 KB
+CPU: 23.20% | Memória usada: 70887 KB / 951402 KB
+CPU: 23.75% | Memória usada: 70879 KB / 951402 KB
+CPU: 20.52% | Memória usada: 70879 KB / 951402 KB
+CPU: 22.06% | Memória usada: 70858 KB / 951402 KB
+CPU: 23.29% | Memória usada: 70850 KB / 951402 KB
+CPU: 17.02% | Memória usada: 70850 KB / 951402 KB
+CPU: 20.80% | Memória usada: 70842 KB / 951402 KB
+CPU: 21.43% | Memória usada: 70834 KB / 951402 KB
+CPU: 17.95% | Memória usada: 70834 KB / 951402 KB
+CPU: 22.73% | Memória usada: 70826 KB / 951402 KB
+CPU: 23.07% | Memória usada: 70817 KB / 951402 KB
+CPU: 21.58% | Memória usada: 70809 KB / 951402 KB
+CPU: 23.15% | Memória usada: 71059 KB / 951402 KB
+CPU: 21.37% | Memória usada: 71059 KB / 951402 KB
+CPU: 23.88% | Memória usada: 71292 KB / 951402 KB
+CPU: 21.95% | Memória usada: 71284 KB / 951402 KB
+CPU: 22.87% | Memória usada: 71276 KB / 951402 KB
+CPU: 21.23% | Memória usada: 71276 KB / 951402 KB
+CPU: 19.45% | Memória usada: 71268 KB / 951402 KB
+CPU: 21.85% | Memória usada: 71518 KB / 951402 KB
+CPU: 19.64% | Memória usada: 71518 KB / 951402 KB
+CPU: 20.03% | Memória usada: 71509 KB / 951402 KB
+CPU: 20.24% | Memória usada: 71509 KB / 951402 KB
+CPU: 22.67% | Memória usada: 71751 KB / 951402 KB
+CPU: 21.21% | Memória usada: 71751 KB / 951402 KB
+CPU: 20.77% | Memória usada: 71743 KB / 951402 KB
+CPU: 20.85% | Memória usada: 71730 KB / 951402 KB
+CPU: 23.23% | Memória usada: 71714 KB / 951402 KB
+CPU: 21.30% | Memória usada: 71706 KB / 951402 KB
+CPU: 22.26% | Memória usada: 71698 KB / 951402 KB
+CPU: 19.33% | Memória usada: 71698 KB / 951402 KB
+CPU: 22.02% | Memória usada: 71690 KB / 951402 KB
+CPU: 21.18% | Memória usada: 71681 KB / 951402 KB
+CPU: 22.60% | Memória usada: 71673 KB / 951402 KB
+CPU: 22.60% | Memória usada: 72181 KB / 951402 KB
+CPU: 22.38% | Memória usada: 72173 KB / 951402 KB
+CPU: 18.51% | Memória usada: 72173 KB / 951402 KB
+CPU: 18.36% | Memória usada: 72165 KB / 951402 KB
+CPU: 17.14% | Memória usada: 72165 KB / 951402 KB
+CPU: 21.56% | Memória usada: 72415 KB / 951402 KB
+CPU: 20.65% | Memória usada: 72415 KB / 951402 KB
+CPU: 19.75% | Memória usada: 72406 KB / 951402 KB
+CPU: 21.23% | Memória usada: 72398 KB / 951402 KB
+CPU: 18.13% | Memória usada: 72398 KB / 951402 KB
+CPU: 23.95% | Memória usada: 72382 KB / 951402 KB
+CPU: 22.43% | Memória usada: 72370 KB / 951402 KB
+CPU: 20.49% | Memória usada: 72370 KB / 951402 KB
+CPU: 21.23% | Memória usada: 72361 KB / 951402 KB
+CPU: 23.30% | Memória usada: 72353 KB / 951402 KB
+CPU: 23.09% | Memória usada: 72341 KB / 951402 KB
+CPU: 20.72% | Memória usada: 72341 KB / 951402 KB
+CPU: 22.68% | Memória usada: 72325 KB / 951402 KB
+CPU: 18.68% | Memória usada: 72325 KB / 951402 KB
+CPU: 23.31% | Memória usada: 72316 KB / 951402 KB
+CPU: 22.07% | Memória usada: 72308 KB / 951402 KB
+CPU: 24.05% | Memória usada: 72300 KB / 951402 KB
+CPU: 22.17% | Memória usada: 72292 KB / 951402 KB
+CPU: 21.95% | Memória usada: 72284 KB / 951402 KB
+CPU: 23.70% | Memória usada: 72275 KB / 951402 KB
+CPU: 23.11% | Memória usada: 72525 KB / 951402 KB
+CPU: 21.53% | Memória usada: 72517 KB / 951402 KB
+CPU: 21.25% | Memória usada: 72509 KB / 951402 KB
+CPU: 22.75% | Memória usada: 72730 KB / 951402 KB
+CPU: 22.45% | Memória usada: 72722 KB / 951402 KB

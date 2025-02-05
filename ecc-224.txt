@@ -1,0 +1,1002 @@
+Tempo de geração das chaves ECC: 87.800048ms
+Tempo de geração das chaves ECC: 3.32492ms
+Tempo de geração das chaves ECC: 3.358462ms
+Tempo de geração das chaves ECC: 3.345389ms
+Tempo de geração das chaves ECC: 3.337368ms
+Tempo de geração das chaves ECC: 6.628955ms
+Tempo de geração das chaves ECC: 6.549841ms
+Tempo de geração das chaves ECC: 6.614215ms
+Tempo de geração das chaves ECC: 6.568382ms
+Tempo de geração das chaves ECC: 6.579789ms
+Tempo de geração das chaves ECC: 6.605986ms
+Tempo de geração das chaves ECC: 6.575726ms
+Tempo de geração das chaves ECC: 6.690985ms
+Tempo de geração das chaves ECC: 6.556559ms
+Tempo de geração das chaves ECC: 6.555205ms
+Tempo de geração das chaves ECC: 6.55531ms
+Tempo de geração das chaves ECC: 6.607341ms
+Tempo de geração das chaves ECC: 6.583383ms
+Tempo de geração das chaves ECC: 6.606768ms
+Tempo de geração das chaves ECC: 6.562393ms
+Tempo de geração das chaves ECC: 6.547445ms
+Tempo de geração das chaves ECC: 6.573383ms
+Tempo de geração das chaves ECC: 6.531508ms
+Tempo de geração das chaves ECC: 6.588226ms
+Tempo de geração das chaves ECC: 6.58557ms
+Tempo de geração das chaves ECC: 6.555466ms
+Tempo de geração das chaves ECC: 6.545466ms
+Tempo de geração das chaves ECC: 6.552706ms
+Tempo de geração das chaves ECC: 6.572549ms
+Tempo de geração das chaves ECC: 6.615518ms
+Tempo de geração das chaves ECC: 6.569476ms
+Tempo de geração das chaves ECC: 6.588903ms
+Tempo de geração das chaves ECC: 6.59083ms
+Tempo de geração das chaves ECC: 6.660673ms
+Tempo de geração das chaves ECC: 6.601091ms
+Tempo de geração das chaves ECC: 6.574059ms
+Tempo de geração das chaves ECC: 6.626559ms
+Tempo de geração das chaves ECC: 6.658434ms
+Tempo de geração das chaves ECC: 6.539529ms
+Tempo de geração das chaves ECC: 6.611143ms
+Tempo de geração das chaves ECC: 6.605257ms
+Tempo de geração das chaves ECC: 6.598747ms
+Tempo de geração das chaves ECC: 6.527913ms
+Tempo de geração das chaves ECC: 6.621194ms
+Tempo de geração das chaves ECC: 6.546508ms
+Tempo de geração das chaves ECC: 6.585101ms
+Tempo de geração das chaves ECC: 6.591299ms
+Tempo de geração das chaves ECC: 6.571195ms
+Tempo de geração das chaves ECC: 6.56057ms
+Tempo de geração das chaves ECC: 6.567028ms
+Tempo de geração das chaves ECC: 6.56307ms
+Tempo de geração das chaves ECC: 6.623538ms
+Tempo de geração das chaves ECC: 6.606403ms
+Tempo de geração das chaves ECC: 6.637235ms
+Tempo de geração das chaves ECC: 6.560049ms
+Tempo de geração das chaves ECC: 6.643746ms
+Tempo de geração das chaves ECC: 6.581299ms
+Tempo de geração das chaves ECC: 6.654736ms
+Tempo de geração das chaves ECC: 6.611403ms
+Tempo de geração das chaves ECC: 6.606506ms
+Tempo de geração das chaves ECC: 6.550257ms
+Tempo de geração das chaves ECC: 6.571976ms
+Tempo de geração das chaves ECC: 6.58182ms
+Tempo de geração das chaves ECC: 6.639007ms
+Tempo de geração das chaves ECC: 6.593799ms
+Tempo de geração das chaves ECC: 6.578278ms
+Tempo de geração das chaves ECC: 6.5776ms
+Tempo de geração das chaves ECC: 6.591507ms
+Tempo de geração das chaves ECC: 6.606507ms
+Tempo de geração das chaves ECC: 6.56208ms
+Tempo de geração das chaves ECC: 6.588486ms
+Tempo de geração das chaves ECC: 6.607756ms
+Tempo de geração das chaves ECC: 6.638485ms
+Tempo de geração das chaves ECC: 6.570777ms
+Tempo de geração das chaves ECC: 6.650673ms
+Tempo de geração das chaves ECC: 6.609788ms
+Tempo de geração das chaves ECC: 6.572601ms
+Tempo de geração das chaves ECC: 6.524529ms
+Tempo de geração das chaves ECC: 6.588642ms
+Tempo de geração das chaves ECC: 6.622392ms
+Tempo de geração das chaves ECC: 6.563382ms
+Tempo de geração das chaves ECC: 6.582549ms
+Tempo de geração das chaves ECC: 6.654631ms
+Tempo de geração das chaves ECC: 6.573799ms
+Tempo de geração das chaves ECC: 6.568538ms
+Tempo de geração das chaves ECC: 6.606038ms
+Tempo de geração das chaves ECC: 6.584528ms
+Tempo de geração das chaves ECC: 6.613069ms
+Tempo de geração das chaves ECC: 6.540413ms
+Tempo de geração das chaves ECC: 6.577705ms
+Tempo de geração das chaves ECC: 6.597861ms
+Tempo de geração das chaves ECC: 6.591923ms
+Tempo de geração das chaves ECC: 6.577288ms
+Tempo de geração das chaves ECC: 6.578226ms
+Tempo de geração das chaves ECC: 6.587132ms
+Tempo de geração das chaves ECC: 6.628069ms
+Tempo de geração das chaves ECC: 6.543122ms
+Tempo de geração das chaves ECC: 6.574372ms
+Tempo de geração das chaves ECC: 6.544111ms
+Tempo de geração das chaves ECC: 6.583121ms
+Tempo de geração das chaves ECC: 24.494842ms
+Tempo de geração das chaves ECC: 6.584266ms
+Tempo de geração das chaves ECC: 6.593954ms
+Tempo de geração das chaves ECC: 6.580776ms
+Tempo de geração das chaves ECC: 6.600985ms
+Tempo de geração das chaves ECC: 6.58661ms
+Tempo de geração das chaves ECC: 6.53109ms
+Tempo de geração das chaves ECC: 6.576975ms
+Tempo de geração das chaves ECC: 6.538226ms
+Tempo de geração das chaves ECC: 6.608798ms
+Tempo de geração das chaves ECC: 6.61812ms
+Tempo de geração das chaves ECC: 6.641297ms
+Tempo de geração das chaves ECC: 6.552236ms
+Tempo de geração das chaves ECC: 6.59609ms
+Tempo de geração das chaves ECC: 6.560569ms
+Tempo de geração das chaves ECC: 6.586663ms
+Tempo de geração das chaves ECC: 6.598068ms
+Tempo de geração das chaves ECC: 6.627912ms
+Tempo de geração das chaves ECC: 6.6151ms
+Tempo de geração das chaves ECC: 6.615308ms
+Tempo de geração das chaves ECC: 6.570465ms
+Tempo de geração das chaves ECC: 6.610724ms
+Tempo de geração das chaves ECC: 6.60338ms
+Tempo de geração das chaves ECC: 6.565569ms
+Tempo de geração das chaves ECC: 6.564266ms
+Tempo de geração das chaves ECC: 6.611766ms
+Tempo de geração das chaves ECC: 6.562183ms
+Tempo de geração das chaves ECC: 6.636453ms
+Tempo de geração das chaves ECC: 6.575933ms
+Tempo de geração das chaves ECC: 6.569579ms
+Tempo de geração das chaves ECC: 6.578485ms
+Tempo de geração das chaves ECC: 6.591245ms
+Tempo de geração das chaves ECC: 6.559215ms
+Tempo de geração das chaves ECC: 6.546298ms
+Tempo de geração das chaves ECC: 6.576871ms
+Tempo de geração das chaves ECC: 6.620151ms
+Tempo de geração das chaves ECC: 6.588485ms
+Tempo de geração das chaves ECC: 6.595152ms
+Tempo de geração das chaves ECC: 6.585881ms
+Tempo de geração das chaves ECC: 6.585516ms
+Tempo de geração das chaves ECC: 6.566194ms
+Tempo de geração das chaves ECC: 6.618849ms
+Tempo de geração das chaves ECC: 6.639422ms
+Tempo de geração das chaves ECC: 6.644109ms
+Tempo de geração das chaves ECC: 6.576089ms
+Tempo de geração das chaves ECC: 6.585256ms
+Tempo de geração das chaves ECC: 6.552131ms
+Tempo de geração das chaves ECC: 6.605672ms
+Tempo de geração das chaves ECC: 6.580673ms
+Tempo de geração das chaves ECC: 6.567964ms
+Tempo de geração das chaves ECC: 6.570621ms
+Tempo de geração das chaves ECC: 6.60135ms
+Tempo de geração das chaves ECC: 6.514683ms
+Tempo de geração das chaves ECC: 6.588485ms
+Tempo de geração das chaves ECC: 6.612599ms
+Tempo de geração das chaves ECC: 6.593537ms
+Tempo de geração das chaves ECC: 6.537287ms
+Tempo de geração das chaves ECC: 6.5876ms
+Tempo de geração das chaves ECC: 6.566819ms
+Tempo de geração das chaves ECC: 6.629422ms
+Tempo de geração das chaves ECC: 6.607444ms
+Tempo de geração das chaves ECC: 6.580569ms
+Tempo de geração das chaves ECC: 6.539111ms
+Tempo de geração das chaves ECC: 6.571402ms
+Tempo de geração das chaves ECC: 6.623329ms
+Tempo de geração das chaves ECC: 6.580933ms
+Tempo de geração das chaves ECC: 6.570308ms
+Tempo de geração das chaves ECC: 6.582807ms
+Tempo de geração das chaves ECC: 6.659994ms
+Tempo de geração das chaves ECC: 6.625568ms
+Tempo de geração das chaves ECC: 6.57411ms
+Tempo de geração das chaves ECC: 6.625567ms
+Tempo de geração das chaves ECC: 6.574944ms
+Tempo de geração das chaves ECC: 6.566089ms
+Tempo de geração das chaves ECC: 6.544943ms
+Tempo de geração das chaves ECC: 6.650776ms
+Tempo de geração das chaves ECC: 6.602495ms
+Tempo de geração das chaves ECC: 6.584995ms
+Tempo de geração das chaves ECC: 6.592235ms
+Tempo de geração das chaves ECC: 6.605829ms
+Tempo de geração das chaves ECC: 6.578693ms
+Tempo de geração das chaves ECC: 6.578016ms
+Tempo de geração das chaves ECC: 6.657495ms
+Tempo de geração das chaves ECC: 6.611401ms
+Tempo de geração das chaves ECC: 6.583798ms
+Tempo de geração das chaves ECC: 6.631037ms
+Tempo de geração das chaves ECC: 6.592651ms
+Tempo de geração das chaves ECC: 6.629578ms
+Tempo de geração das chaves ECC: 6.616661ms
+Tempo de geração das chaves ECC: 6.603849ms
+Tempo de geração das chaves ECC: 6.633849ms
+Tempo de geração das chaves ECC: 6.596609ms
+Tempo de geração das chaves ECC: 6.594839ms
+Tempo de geração das chaves ECC: 6.592182ms
+Tempo de geração das chaves ECC: 6.592651ms
+Tempo de geração das chaves ECC: 6.581297ms
+Tempo de geração das chaves ECC: 6.57536ms
+Tempo de geração das chaves ECC: 6.594578ms
+Tempo de geração das chaves ECC: 6.576245ms
+Tempo de geração das chaves ECC: 6.54885ms
+Tempo de geração das chaves ECC: 28.588396ms
+Tempo de geração das chaves ECC: 3.341064ms
+Tempo de geração das chaves ECC: 3.327002ms
+Tempo de geração das chaves ECC: 3.347054ms
+Tempo de geração das chaves ECC: 3.328773ms
+Tempo de geração das chaves ECC: 6.572964ms
+Tempo de geração das chaves ECC: 6.571296ms
+Tempo de geração das chaves ECC: 6.599213ms
+Tempo de geração das chaves ECC: 6.566713ms
+Tempo de geração das chaves ECC: 6.566453ms
+Tempo de geração das chaves ECC: 6.581192ms
+Tempo de geração das chaves ECC: 6.594266ms
+Tempo de geração das chaves ECC: 6.597651ms
+Tempo de geração das chaves ECC: 6.599161ms
+Tempo de geração das chaves ECC: 6.595568ms
+Tempo de geração das chaves ECC: 6.570151ms
+Tempo de geração das chaves ECC: 6.616401ms
+Tempo de geração das chaves ECC: 6.535256ms
+Tempo de geração das chaves ECC: 6.654837ms
+Tempo de geração das chaves ECC: 6.573485ms
+Tempo de geração das chaves ECC: 6.58437ms
+Tempo de geração das chaves ECC: 6.629109ms
+Tempo de geração das chaves ECC: 6.563276ms
+Tempo de geração das chaves ECC: 6.563953ms
+Tempo de geração das chaves ECC: 6.552808ms
+Tempo de geração das chaves ECC: 6.64088ms
+Tempo de geração das chaves ECC: 6.586297ms
+Tempo de geração das chaves ECC: 6.57187ms
+Tempo de geração das chaves ECC: 6.629838ms
+Tempo de geração das chaves ECC: 6.553589ms
+Tempo de geração das chaves ECC: 6.579995ms
+Tempo de geração das chaves ECC: 6.602025ms
+Tempo de geração das chaves ECC: 6.627338ms
+Tempo de geração das chaves ECC: 6.610463ms
+Tempo de geração das chaves ECC: 6.63489ms
+Tempo de geração das chaves ECC: 6.556141ms
+Tempo de geração das chaves ECC: 6.61239ms
+Tempo de geração das chaves ECC: 6.6339ms
+Tempo de geração das chaves ECC: 6.572599ms
+Tempo de geração das chaves ECC: 6.611661ms
+Tempo de geração das chaves ECC: 6.580255ms
+Tempo de geração das chaves ECC: 6.590568ms
+Tempo de geração das chaves ECC: 6.584005ms
+Tempo de geração das chaves ECC: 6.581557ms
+Tempo de geração das chaves ECC: 6.553381ms
+Tempo de geração das chaves ECC: 6.653223ms
+Tempo de geração das chaves ECC: 6.622963ms
+Tempo de geração das chaves ECC: 6.563276ms
+Tempo de geração das chaves ECC: 6.577078ms
+Tempo de geração das chaves ECC: 6.613588ms
+Tempo de geração das chaves ECC: 6.636765ms
+Tempo de geração das chaves ECC: 6.603015ms
+Tempo de geração das chaves ECC: 6.601453ms
+Tempo de geração das chaves ECC: 6.572183ms
+Tempo de geração das chaves ECC: 6.565515ms
+Tempo de geração das chaves ECC: 6.581504ms
+Tempo de geração das chaves ECC: 6.57338ms
+Tempo de geração das chaves ECC: 6.666088ms
+Tempo de geração das chaves ECC: 6.574109ms
+Tempo de geração das chaves ECC: 6.583953ms
+Tempo de geração das chaves ECC: 6.62015ms
+Tempo de geração das chaves ECC: 6.589838ms
+Tempo de geração das chaves ECC: 6.58515ms
+Tempo de geração das chaves ECC: 6.595515ms
+Tempo de geração das chaves ECC: 6.614317ms
+Tempo de geração das chaves ECC: 6.621713ms
+Tempo de geração das chaves ECC: 6.619004ms
+Tempo de geração das chaves ECC: 6.556713ms
+Tempo de geração das chaves ECC: 6.577025ms
+Tempo de geração das chaves ECC: 6.60265ms
+Tempo de geração das chaves ECC: 6.618535ms
+Tempo de geração das chaves ECC: 6.561922ms
+Tempo de geração das chaves ECC: 6.530151ms
+Tempo de geração das chaves ECC: 6.709368ms
+Tempo de geração das chaves ECC: 6.594317ms
+Tempo de geração das chaves ECC: 6.568484ms
+Tempo de geração das chaves ECC: 6.644994ms
+Tempo de geração das chaves ECC: 6.570776ms
+Tempo de geração das chaves ECC: 6.57614ms
+Tempo de geração das chaves ECC: 6.60713ms
+Tempo de geração das chaves ECC: 6.646244ms
+Tempo de geração das chaves ECC: 6.634004ms
+Tempo de geração das chaves ECC: 6.542599ms
+Tempo de geração das chaves ECC: 6.603848ms
+Tempo de geração das chaves ECC: 6.640515ms
+Tempo de geração das chaves ECC: 6.603953ms
+Tempo de geração das chaves ECC: 6.611661ms
+Tempo de geração das chaves ECC: 6.56536ms
+Tempo de geração das chaves ECC: 6.554057ms
+Tempo de geração das chaves ECC: 6.610827ms
+Tempo de geração das chaves ECC: 6.620828ms
+Tempo de geração das chaves ECC: 6.623901ms
+Tempo de geração das chaves ECC: 6.603536ms
+Tempo de geração das chaves ECC: 6.640567ms
+Tempo de geração das chaves ECC: 6.601088ms
+Tempo de geração das chaves ECC: 6.607026ms
+Tempo de geração das chaves ECC: 6.681868ms
+Tempo de geração das chaves ECC: 6.609682ms
+Tempo de geração das chaves ECC: 6.624421ms
+Tempo de geração das chaves ECC: 6.594526ms
+Tempo de geração das chaves ECC: 24.765094ms
+Tempo de geração das chaves ECC: 3.311586ms
+Tempo de geração das chaves ECC: 3.290023ms
+Tempo de geração das chaves ECC: 3.339294ms
+Tempo de geração das chaves ECC: 3.380803ms
+Tempo de geração das chaves ECC: 6.579108ms
+Tempo de geração das chaves ECC: 6.562442ms
+Tempo de geração das chaves ECC: 6.577286ms
+Tempo de geração das chaves ECC: 6.523328ms
+Tempo de geração das chaves ECC: 6.521557ms
+Tempo de geração das chaves ECC: 6.527495ms
+Tempo de geração das chaves ECC: 6.540307ms
+Tempo de geração das chaves ECC: 6.545255ms
+Tempo de geração das chaves ECC: 6.592286ms
+Tempo de geração das chaves ECC: 6.557338ms
+Tempo de geração das chaves ECC: 6.623536ms
+Tempo de geração das chaves ECC: 6.55614ms
+Tempo de geração das chaves ECC: 6.584317ms
+Tempo de geração das chaves ECC: 6.572025ms
+Tempo de geração das chaves ECC: 6.579265ms
+Tempo de geração das chaves ECC: 6.591557ms
+Tempo de geração das chaves ECC: 6.6214ms
+Tempo de geração das chaves ECC: 6.57588ms
+Tempo de geração das chaves ECC: 6.579838ms
+Tempo de geração das chaves ECC: 6.584942ms
+Tempo de geração das chaves ECC: 6.611296ms
+Tempo de geração das chaves ECC: 6.616088ms
+Tempo de geração das chaves ECC: 6.579005ms
+Tempo de geração das chaves ECC: 6.585671ms
+Tempo de geração das chaves ECC: 6.608692ms
+Tempo de geração das chaves ECC: 6.5889ms
+Tempo de geração das chaves ECC: 6.549578ms
+Tempo de geração das chaves ECC: 6.633431ms
+Tempo de geração das chaves ECC: 6.666712ms
+Tempo de geração das chaves ECC: 6.58463ms
+Tempo de geração das chaves ECC: 6.614108ms
+Tempo de geração das chaves ECC: 6.576452ms
+Tempo de geração das chaves ECC: 6.596192ms
+Tempo de geração das chaves ECC: 6.639629ms
+Tempo de geração das chaves ECC: 6.552963ms
+Tempo de geração das chaves ECC: 6.594212ms
+Tempo de geração das chaves ECC: 6.692546ms
+Tempo de geração das chaves ECC: 6.640983ms
+Tempo de geração das chaves ECC: 6.598952ms
+Tempo de geração das chaves ECC: 6.562807ms
+Tempo de geração das chaves ECC: 6.679004ms
+Tempo de geração das chaves ECC: 6.600827ms
+Tempo de geração das chaves ECC: 6.588849ms
+Tempo de geração das chaves ECC: 6.651035ms
+Tempo de geração das chaves ECC: 6.561817ms
+Tempo de geração das chaves ECC: 6.603796ms
+Tempo de geração das chaves ECC: 6.638952ms
+Tempo de geração das chaves ECC: 6.638848ms
+Tempo de geração das chaves ECC: 6.585775ms
+Tempo de geração das chaves ECC: 6.561869ms
+Tempo de geração das chaves ECC: 6.564942ms
+Tempo de geração das chaves ECC: 6.634733ms
+Tempo de geração das chaves ECC: 6.626504ms
+Tempo de geração das chaves ECC: 6.592181ms
+Tempo de geração das chaves ECC: 6.616609ms
+Tempo de geração das chaves ECC: 6.568432ms
+Tempo de geração das chaves ECC: 6.622545ms
+Tempo de geração das chaves ECC: 6.601192ms
+Tempo de geração das chaves ECC: 6.629056ms
+Tempo de geração das chaves ECC: 6.587703ms
+Tempo de geração das chaves ECC: 6.614108ms
+Tempo de geração das chaves ECC: 6.59692ms
+Tempo de geração das chaves ECC: 6.51864ms
+Tempo de geração das chaves ECC: 6.619785ms
+Tempo de geração das chaves ECC: 6.628014ms
+Tempo de geração das chaves ECC: 6.620722ms
+Tempo de geração das chaves ECC: 6.575671ms
+Tempo de geração das chaves ECC: 6.575984ms
+Tempo de geração das chaves ECC: 6.640931ms
+Tempo de geração das chaves ECC: 6.588796ms
+Tempo de geração das chaves ECC: 6.6014ms
+Tempo de geração das chaves ECC: 6.647962ms
+Tempo de geração das chaves ECC: 6.641451ms
+Tempo de geração das chaves ECC: 6.571401ms
+Tempo de geração das chaves ECC: 6.638431ms
+Tempo de geração das chaves ECC: 6.548327ms
+Tempo de geração das chaves ECC: 6.574942ms
+Tempo de geração das chaves ECC: 6.609265ms
+Tempo de geração das chaves ECC: 6.668951ms
+Tempo de geração das chaves ECC: 6.632493ms
+Tempo de geração das chaves ECC: 6.61515ms
+Tempo de geração das chaves ECC: 6.539369ms
+Tempo de geração das chaves ECC: 6.633327ms
+Tempo de geração das chaves ECC: 6.677649ms
+Tempo de geração das chaves ECC: 6.559109ms
+Tempo de geração das chaves ECC: 6.608483ms
+Tempo de geração das chaves ECC: 6.655097ms
+Tempo de geração das chaves ECC: 6.599212ms
+Tempo de geração das chaves ECC: 6.665931ms
+Tempo de geração das chaves ECC: 6.595775ms
+Tempo de geração das chaves ECC: 6.649941ms
+Tempo de geração das chaves ECC: 6.671764ms
+Tempo de geração das chaves ECC: 6.644212ms
+Tempo de geração das chaves ECC: 6.592338ms
+Tempo de geração das chaves ECC: 6.62041ms
+Tempo de geração das chaves ECC: 24.454315ms
+Tempo de geração das chaves ECC: 3.322002ms
+Tempo de geração das chaves ECC: 3.300544ms
+Tempo de geração das chaves ECC: 3.33695ms
+Tempo de geração das chaves ECC: 3.328721ms
+Tempo de geração das chaves ECC: 6.70291ms
+Tempo de geração das chaves ECC: 6.607337ms
+Tempo de geração das chaves ECC: 6.553431ms
+Tempo de geração das chaves ECC: 6.541296ms
+Tempo de geração das chaves ECC: 6.599994ms
+Tempo de geração das chaves ECC: 6.615931ms
+Tempo de geração das chaves ECC: 6.564213ms
+Tempo de geração das chaves ECC: 6.566296ms
+Tempo de geração das chaves ECC: 6.524161ms
+Tempo de geração das chaves ECC: 6.61916ms
+Tempo de geração das chaves ECC: 6.587754ms
+Tempo de geração das chaves ECC: 6.536609ms
+Tempo de geração das chaves ECC: 6.559682ms
+Tempo de geração das chaves ECC: 6.548588ms
+Tempo de geração das chaves ECC: 6.624525ms
+Tempo de geração das chaves ECC: 6.618327ms
+Tempo de geração das chaves ECC: 6.644368ms
+Tempo de geração das chaves ECC: 6.569942ms
+Tempo de geração das chaves ECC: 6.658847ms
+Tempo de geração das chaves ECC: 6.587546ms
+Tempo de geração das chaves ECC: 6.646972ms
+Tempo de geração das chaves ECC: 6.570671ms
+Tempo de geração das chaves ECC: 6.66942ms
+Tempo de geração das chaves ECC: 6.523484ms
+Tempo de geração das chaves ECC: 6.544682ms
+Tempo de geração das chaves ECC: 6.616973ms
+Tempo de geração das chaves ECC: 6.547234ms
+Tempo de geração das chaves ECC: 6.554577ms
+Tempo de geração das chaves ECC: 6.561504ms
+Tempo de geração das chaves ECC: 6.514161ms
+Tempo de geração das chaves ECC: 6.610931ms
+Tempo de geração das chaves ECC: 6.586348ms
+Tempo de geração das chaves ECC: 6.617337ms
+Tempo de geração das chaves ECC: 6.565514ms
+Tempo de geração das chaves ECC: 6.618743ms
+Tempo de geração das chaves ECC: 6.537338ms
+Tempo de geração das chaves ECC: 6.604681ms
+Tempo de geração das chaves ECC: 6.577129ms
+Tempo de geração das chaves ECC: 6.573223ms
+Tempo de geração das chaves ECC: 6.548015ms
+Tempo de geração das chaves ECC: 6.556453ms
+Tempo de geração das chaves ECC: 6.581556ms
+Tempo de geração das chaves ECC: 6.627806ms
+Tempo de geração das chaves ECC: 6.564682ms
+Tempo de geração das chaves ECC: 6.519838ms
+Tempo de geração das chaves ECC: 6.555046ms
+Tempo de geração das chaves ECC: 6.562858ms
+Tempo de geração das chaves ECC: 6.596712ms
+Tempo de geração das chaves ECC: 6.555671ms
+Tempo de geração das chaves ECC: 6.5839ms
+Tempo de geração das chaves ECC: 6.513588ms
+Tempo de geração das chaves ECC: 6.571556ms
+Tempo de geração das chaves ECC: 6.545619ms
+Tempo de geração das chaves ECC: 6.577181ms
+Tempo de geração das chaves ECC: 6.559421ms
+Tempo de geração das chaves ECC: 6.58166ms
+Tempo de geração das chaves ECC: 6.549317ms
+Tempo de geração das chaves ECC: 6.548015ms
+Tempo de geração das chaves ECC: 6.637024ms
+Tempo de geração das chaves ECC: 6.656191ms
+Tempo de geração das chaves ECC: 6.568432ms
+Tempo de geração das chaves ECC: 6.627233ms
+Tempo de geração das chaves ECC: 6.612859ms
+Tempo de geração das chaves ECC: 6.583223ms
+Tempo de geração das chaves ECC: 6.581973ms
+Tempo de geração das chaves ECC: 6.558431ms
+Tempo de geração das chaves ECC: 6.615826ms
+Tempo de geração das chaves ECC: 6.609369ms
+Tempo de geração das chaves ECC: 6.614785ms
+Tempo de geração das chaves ECC: 6.592285ms
+Tempo de geração das chaves ECC: 6.588796ms
+Tempo de geração das chaves ECC: 6.583118ms
+Tempo de geração das chaves ECC: 6.573171ms
+Tempo de geração das chaves ECC: 6.551452ms
+Tempo de geração das chaves ECC: 6.519578ms
+Tempo de geração das chaves ECC: 6.614525ms
+Tempo de geração das chaves ECC: 6.612858ms
+Tempo de geração das chaves ECC: 6.594421ms
+Tempo de geração das chaves ECC: 6.594368ms
+Tempo de geração das chaves ECC: 6.59541ms
+Tempo de geração das chaves ECC: 6.561452ms
+Tempo de geração das chaves ECC: 6.565879ms
+Tempo de geração das chaves ECC: 6.605515ms
+Tempo de geração das chaves ECC: 6.547077ms
+Tempo de geração das chaves ECC: 6.598744ms
+Tempo de geração das chaves ECC: 6.602597ms
+Tempo de geração das chaves ECC: 6.605098ms
+Tempo de geração das chaves ECC: 6.63791ms
+Tempo de geração das chaves ECC: 6.582025ms
+Tempo de geração das chaves ECC: 6.555463ms
+Tempo de geração das chaves ECC: 6.515984ms
+Tempo de geração das chaves ECC: 6.619941ms
+Tempo de geração das chaves ECC: 6.613014ms
+Tempo de geração das chaves ECC: 6.523692ms
+Tempo de geração das chaves ECC: 6.623066ms
+
+
+CPU: 45.00% | Memória Usada: 70186 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70182 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 70174 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 70174 KB / 951402 KB
+CPU: 0.25% | Memória Usada: 70174 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70174 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70174 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70174 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70166 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70166 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70166 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70166 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70166 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70158 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70158 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70158 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70158 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70158 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70150 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70150 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70150 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70150 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70150 KB / 951402 KB
+CPU: 0.98% | Memória Usada: 70141 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70141 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70141 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70141 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70141 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70133 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70133 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70133 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70133 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70133 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 70125 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70125 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70125 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70125 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70125 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70117 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70117 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70375 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70375 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70375 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70375 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70367 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70367 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70367 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70367 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70367 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70358 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70350 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70350 KB / 951402 KB
+CPU: 1.47% | Memória Usada: 70350 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70350 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 70342 KB / 951402 KB
+CPU: 0.70% | Memória Usada: 70342 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70342 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70342 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70342 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70342 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70334 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70334 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 70334 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70334 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70334 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70334 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70326 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70317 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70317 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70317 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70317 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70317 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70317 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70317 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70305 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70305 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70305 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70305 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70297 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70297 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70297 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70297 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70297 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70297 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70289 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70289 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 70289 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70289 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 70289 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 70289 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 70281 KB / 951402 KB
+CPU: 22.03% | Memória Usada: 69203 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69109 KB / 951402 KB
+CPU: 0.25% | Memória Usada: 69109 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69109 KB / 951402 KB
+CPU: 0.25% | Memória Usada: 69109 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69101 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69101 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69101 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69101 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69101 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69101 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69093 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69093 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69093 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69093 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69093 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69085 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69085 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69343 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69343 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69343 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69343 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69334 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69334 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69334 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69334 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69334 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 69326 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69326 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69326 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69326 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69318 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69318 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69318 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69318 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69318 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69310 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69310 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69310 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69310 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69310 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69302 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69302 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69302 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69302 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69302 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69293 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69293 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69293 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69293 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69293 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69285 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69285 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69285 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69285 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69285 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69277 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69277 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69277 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69277 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69277 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69269 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69269 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69269 KB / 951402 KB
+CPU: 1.24% | Memória Usada: 69269 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69269 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69261 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69261 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69261 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69261 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69261 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69252 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69252 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69252 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69252 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69252 KB / 951402 KB
+CPU: 1.24% | Memória Usada: 69244 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69244 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69244 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69244 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69244 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69232 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69232 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69232 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69232 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69232 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69224 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69482 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69482 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 69482 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 69482 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69474 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69474 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 69474 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69474 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 69474 KB / 951402 KB
+CPU: 1.47% | Memória Usada: 69466 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 69466 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 69466 KB / 951402 KB
+CPU: 45.83% | Memória Usada: 71498 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71494 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71486 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71486 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71486 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71486 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71715 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71715 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71706 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71706 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71689 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71689 KB / 951402 KB
+CPU: 1.24% | Memória Usada: 71689 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71689 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 71681 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71681 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71681 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71681 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71681 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71673 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 71673 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71673 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71673 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71673 KB / 951402 KB
+CPU: 1.24% | Memória Usada: 71665 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71665 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71665 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71665 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71665 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71665 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71657 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71657 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71657 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 71657 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71656 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71648 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71648 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71648 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71648 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71640 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71640 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71640 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71640 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71640 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 71632 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71632 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71632 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71632 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71632 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71624 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71624 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71624 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71624 KB / 951402 KB
+CPU: 1.24% | Memória Usada: 71624 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71616 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71616 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71616 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71616 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71616 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71608 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71608 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71608 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71608 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71608 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71599 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71599 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71599 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71599 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71599 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71591 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71591 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71591 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71591 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71591 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71583 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71583 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71583 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71583 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71583 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71575 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71575 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71575 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71571 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71829 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71821 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 71821 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71821 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71821 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71821 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71821 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71820 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71812 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71812 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71812 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71812 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 71804 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71804 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71804 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 71804 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 71804 KB / 951402 KB
+CPU: 48.00% | Memória Usada: 72259 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72223 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72223 KB / 951402 KB
+CPU: 0.25% | Memória Usada: 72223 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 72223 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72223 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72215 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72215 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72215 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72215 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72215 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72207 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72207 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72207 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72207 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72207 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72199 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72199 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72199 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72199 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72457 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 72448 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72448 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72448 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72448 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72448 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72440 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72440 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72440 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72440 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72440 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72440 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 72432 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72432 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72432 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72432 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72424 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72424 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72424 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72424 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72424 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72416 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72416 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72416 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72416 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72416 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72407 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72407 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72407 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72407 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72407 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72399 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72399 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72399 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 72399 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72399 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72391 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72391 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72391 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72391 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72391 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72383 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72383 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72383 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72383 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72383 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72383 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72375 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72375 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72375 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72375 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72375 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72375 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72367 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72367 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72367 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 72367 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 72367 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72358 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72358 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72358 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 72354 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72346 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72346 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72346 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72346 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72346 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72338 KB / 951402 KB
+CPU: 1.24% | Memória Usada: 72338 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72338 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72338 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 72338 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72330 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72330 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 72330 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72330 KB / 951402 KB
+CPU: 1.47% | Memória Usada: 72330 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 72322 KB / 951402 KB
+CPU: 47.83% | Memória Usada: 73443 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73422 KB / 951402 KB
+CPU: 0.50% | Memória Usada: 73422 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73414 KB / 951402 KB
+CPU: 0.25% | Memória Usada: 73414 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73414 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73414 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73414 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73414 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73406 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73406 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73406 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73406 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73406 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73398 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73398 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73398 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73398 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73398 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73389 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73389 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73389 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73389 KB / 951402 KB
+CPU: 1.48% | Memória Usada: 73389 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73389 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73381 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73381 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73381 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73381 KB / 951402 KB
+CPU: 1.47% | Memória Usada: 73381 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73373 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73373 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73373 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73373 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73374 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73374 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73365 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73365 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73623 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73623 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73615 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73615 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73615 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73615 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73615 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73606 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73606 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73606 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73606 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73606 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73598 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73598 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73598 KB / 951402 KB
+CPU: 1.47% | Memória Usada: 73598 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73598 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73590 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73590 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73590 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73590 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73590 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73582 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73582 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73582 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73582 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73582 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73574 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73574 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73574 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73574 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73574 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73561 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73561 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73561 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73561 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73561 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73553 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73553 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73553 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73553 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73553 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73554 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73545 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73541 KB / 951402 KB
+CPU: 0.74% | Memória Usada: 73541 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73541 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73533 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73533 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73533 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73533 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73533 KB / 951402 KB
+CPU: 1.47% | Memória Usada: 73525 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73525 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73525 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73525 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73525 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73516 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73516 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73516 KB / 951402 KB
+CPU: 1.23% | Memória Usada: 73516 KB / 951402 KB
+CPU: 0.99% | Memória Usada: 73516 KB / 951402 KB
